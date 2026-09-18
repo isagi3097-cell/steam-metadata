@@ -1,0 +1,522 @@
+{
+  "_lastChecked": 1789725169,
+  "_history": [
+    {
+      "buildId": "25141861",
+      "branch": "public",
+      "timeUpdated": 1788618824,
+      "firstSeen": 1788632585,
+      "manifests": {
+        "4959961": {
+          "gid": "4088865766722340843",
+          "size": 72504856,
+          "download": 57406400
+        },
+        "4959962": {
+          "gid": "8550654216623459882",
+          "size": 167982492,
+          "download": 81390272
+        }
+      }
+    },
+    {
+      "buildId": "25147638",
+      "branch": "public",
+      "timeUpdated": 1788660775,
+      "firstSeen": 1788675429,
+      "manifests": {
+        "4959961": {
+          "gid": "7935205181005116999",
+          "size": 72642676,
+          "download": 57448352
+        },
+        "4959962": {
+          "gid": "8919359722377273818",
+          "size": 169315640,
+          "download": 81774816
+        }
+      }
+    },
+    {
+      "buildId": "25192242",
+      "branch": "public",
+      "timeUpdated": 1788889725,
+      "firstSeen": 1788891909,
+      "manifests": {
+        "4959961": {
+          "gid": "2898949130204793491",
+          "size": 72908416,
+          "download": 57547408
+        },
+        "4959962": {
+          "gid": "5337282874708471446",
+          "size": 171601496,
+          "download": 82334448
+        }
+      }
+    },
+    {
+      "buildId": "25201846",
+      "branch": "public",
+      "timeUpdated": 1788932592,
+      "firstSeen": 1788938238,
+      "manifests": {
+        "4959961": {
+          "gid": "6153746067593488665",
+          "size": 72946688,
+          "download": 57560240
+        },
+        "4959962": {
+          "gid": "3745618833037589004",
+          "size": 171983364,
+          "download": 82545808
+        }
+      }
+    },
+    {
+      "buildId": "25241361",
+      "branch": "public",
+      "timeUpdated": 1789080382,
+      "firstSeen": 1789081851,
+      "manifests": {
+        "4959961": {
+          "gid": "7736132959126759324",
+          "size": 73182636,
+          "download": 57635408
+        },
+        "4959962": {
+          "gid": "2735023402074566931",
+          "size": 174155508,
+          "download": 83076864
+        }
+      }
+    },
+    {
+      "buildId": "25244681",
+      "branch": "public",
+      "timeUpdated": 1789095400,
+      "firstSeen": 1789102087,
+      "manifests": {
+        "4959961": {
+          "gid": "5173891838026399411",
+          "size": 73186732,
+          "download": 57628224
+        },
+        "4959962": {
+          "gid": "727519720948947379",
+          "size": 174228468,
+          "download": 83078048
+        }
+      }
+    },
+    {
+      "buildId": "25258947",
+      "branch": "public",
+      "timeUpdated": 1789148462,
+      "firstSeen": 1789148764,
+      "manifests": {
+        "4959961": {
+          "gid": "1735440234038750002",
+          "size": 73237144,
+          "download": 57660480
+        },
+        "4959962": {
+          "gid": "2803458304931768387",
+          "size": 174534080,
+          "download": 83148560
+        }
+      }
+    },
+    {
+      "buildId": "25271411",
+      "branch": "public",
+      "timeUpdated": 1789220231,
+      "firstSeen": 1789222974,
+      "manifests": {
+        "4959961": {
+          "gid": "5480777742339457947",
+          "size": 73352472,
+          "download": 57701088
+        },
+        "4959962": {
+          "gid": "8347186052349670977",
+          "size": 175625484,
+          "download": 83497280
+        }
+      }
+    },
+    {
+      "buildId": "25278499",
+      "branch": "public",
+      "timeUpdated": 1789268044,
+      "firstSeen": 1789271981,
+      "manifests": {
+        "4959961": {
+          "gid": "1927462248842931342",
+          "size": 74124488,
+          "download": 58373552
+        },
+        "4959962": {
+          "gid": "8995886157993143368",
+          "size": 177297312,
+          "download": 84412352
+        }
+      }
+    },
+    {
+      "buildId": "25281261",
+      "branch": "public",
+      "timeUpdated": 1789292060,
+      "firstSeen": 1789302675,
+      "manifests": {
+        "4959961": {
+          "gid": "125458462644312828",
+          "size": 74144164,
+          "download": 58379024
+        },
+        "4959962": {
+          "gid": "1879133820302404719",
+          "size": 177479128,
+          "download": 84473184
+        }
+      }
+    },
+    {
+      "buildId": "25284596",
+      "branch": "public",
+      "timeUpdated": 1789313862,
+      "firstSeen": 1789317381,
+      "manifests": {
+        "4959961": {
+          "gid": "5858958858004651034",
+          "size": 74331964,
+          "download": 58499648
+        },
+        "4959962": {
+          "gid": "337123016892800918",
+          "size": 178424212,
+          "download": 84781632
+        }
+      }
+    },
+    {
+      "buildId": "25295851",
+      "branch": "public",
+      "timeUpdated": 1789375816,
+      "firstSeen": 1789379141,
+      "manifests": {
+        "4959961": {
+          "gid": "3042687176555829583",
+          "size": 74575572,
+          "download": 58620480
+        },
+        "4959962": {
+          "gid": "5872208076267770071",
+          "size": 179975948,
+          "download": 85292800
+        }
+      }
+    },
+    {
+      "buildId": "25311746",
+      "branch": "public",
+      "timeUpdated": 1789431840,
+      "firstSeen": 1789438013,
+      "manifests": {
+        "4959961": {
+          "gid": "1120952260429386877",
+          "size": 76231899,
+          "download": 59500688
+        },
+        "4959962": {
+          "gid": "5172271578384106106",
+          "size": 182132459,
+          "download": 86245856
+        }
+      }
+    },
+    {
+      "buildId": "25326938",
+      "branch": "public",
+      "timeUpdated": 1789492499,
+      "firstSeen": 1789493454,
+      "manifests": {
+        "4959961": {
+          "gid": "1317326104021201199",
+          "size": 76765575,
+          "download": 59829504
+        },
+        "4959962": {
+          "gid": "1850483582635499079",
+          "size": 184889027,
+          "download": 87277600
+        }
+      }
+    },
+    {
+      "buildId": "25335972",
+      "branch": "public",
+      "timeUpdated": 1789521298,
+      "firstSeen": 1789523437,
+      "manifests": {
+        "4959961": {
+          "gid": "3801559345763150670",
+          "size": 76789511,
+          "download": 59837024
+        },
+        "4959962": {
+          "gid": "4450391784821118655",
+          "size": 185055331,
+          "download": 87332048
+        }
+      }
+    },
+    {
+      "buildId": "25372162",
+      "branch": "public",
+      "timeUpdated": 1789659459,
+      "firstSeen": 1789664785,
+      "manifests": {
+        "4959961": {
+          "gid": "2753269358180775787",
+          "size": 77289895,
+          "download": 60078992
+        },
+        "4959962": {
+          "gid": "2903796324026082192",
+          "size": 188211443,
+          "download": 88247008
+        }
+      }
+    }
+  ],
+  "_change_number": 38989160,
+  "_missing_token": false,
+  "_sha": "39b574ddcbdeb9b6781e123340e1887d3bccbd20",
+  "_size": 4724,
+  "appid": "4959960",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Missroot",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Missroot",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_2": "1",
+      "category_35": "1",
+      "category_62": "1",
+      "category_64": "1",
+      "category_66": "1",
+      "category_67": "1",
+      "category_74": "1",
+      "category_76": "1",
+      "category_77": "1",
+      "category_80": "1",
+      "category_82": "1"
+    },
+    "clienticns": "addb072eca4f50146e60934cd9b116abc6a06260",
+    "clienticon": "d8722a9a72c14d179a6abc8a1ba44f5ca73214b7",
+    "community_hub_visible": "1",
+    "controllertagwizard": "1",
+    "gameid": "4959960",
+    "genres": {
+      "0": "25",
+      "1": "4",
+      "2": "23",
+      "3": "3",
+      "4": "28",
+      "5": "2",
+      "6": "37"
+    },
+    "header_image": {
+      "english": "1d4f1ea659d09661a38f547179af0649c9a853fa/header.jpg"
+    },
+    "icon": "d8722a9a72c14d179a6abc8a1ba44f5ca73214b7",
+    "library_assets": {
+      "library_capsule": "en",
+      "library_header": "en",
+      "library_hero": "en",
+      "library_hero_blur": "en",
+      "library_logo": "en",
+      "logo_position": {
+        "height_pct": "42.361203386816875",
+        "pinned_position": "BottomLeft",
+        "width_pct": "61.36808989045532"
+      }
+    },
+    "library_assets_full": {
+      "library_capsule": {
+        "image": {
+          "english": "0877cd345a2022181b9da9c25ec1784a2166b328/library_capsule.jpg"
+        },
+        "image2x": {
+          "english": "0877cd345a2022181b9da9c25ec1784a2166b328/library_capsule_2x.jpg"
+        }
+      },
+      "library_header": {
+        "image": {
+          "english": "1d4f1ea659d09661a38f547179af0649c9a853fa/library_header.jpg"
+        },
+        "image2x": {
+          "english": "1d4f1ea659d09661a38f547179af0649c9a853fa/library_header_2x.jpg"
+        }
+      },
+      "library_hero": {
+        "image": {
+          "english": "b56e7a8b04eb7681d599af3d3de0cafbeda1afe0/library_hero.jpg"
+        },
+        "image2x": {
+          "english": "b56e7a8b04eb7681d599af3d3de0cafbeda1afe0/library_hero_2x.jpg"
+        }
+      },
+      "library_hero_blur": {
+        "image": {
+          "english": "b56e7a8b04eb7681d599af3d3de0cafbeda1afe0/library_hero_blur.jpg"
+        }
+      },
+      "library_logo": {
+        "image": {
+          "english": "aa9205687e2520bcb621e880a9930f12b02a778a/logo.png"
+        },
+        "image2x": {
+          "english": "aa9205687e2520bcb621e880a9930f12b02a778a/logo_2x.png"
+        },
+        "logo_position": {
+          "height_pct": "42.361203386816875",
+          "pinned_position": "BottomLeft",
+          "width_pct": "61.36808989045532"
+        }
+      }
+    },
+    "linuxclienticon": "197070eb7cf06e69f44073f6255698172f30ee32",
+    "name": "Zone Sweeper",
+    "osarch": "64",
+    "osextended": "macos64,macosapplesilicon",
+    "oslist": "windows,macos",
+    "primary_genre": "23",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "8291d8a8912c1b0c604ce65b1000c88c78e6c440/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1787747496",
+    "store_asset_mtime": "1789722718",
+    "store_tags": {
+      "0": "615955",
+      "1": "560542",
+      "10": "4325",
+      "11": "597",
+      "12": "599",
+      "13": "3964",
+      "14": "1684",
+      "15": "21",
+      "16": "3993",
+      "17": "4182",
+      "18": "493",
+      "19": "113",
+      "2": "3959",
+      "3": "6730",
+      "4": "4231",
+      "5": "4747",
+      "6": "122",
+      "7": "9",
+      "8": "3871",
+      "9": "4791"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "supported": "true"
+      },
+      "english": {
+        "supported": "true"
+      },
+      "french": {
+        "supported": "true"
+      },
+      "german": {
+        "supported": "true"
+      },
+      "japanese": {
+        "supported": "true"
+      },
+      "koreana": {
+        "supported": "true"
+      },
+      "polish": {
+        "supported": "true"
+      },
+      "russian": {
+        "supported": "true"
+      },
+      "schinese": {
+        "supported": "true"
+      },
+      "spanish": {
+        "supported": "true"
+      }
+    },
+    "type": "Game"
+  },
+  "config": {
+    "installdir": "Zone Sweeper",
+    "launch": {
+      "0": {
+        "config": {
+          "oslist": "windows"
+        },
+        "executable": "zone-sweeper.exe"
+      },
+      "1": {
+        "config": {
+          "oslist": "macos"
+        },
+        "executable": "Zone Sweeper.app"
+      }
+    }
+  },
+  "depots": {
+    "4959961": {
+      "config": {
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "60078992",
+          "gid": "2753269358180775787",
+          "size": "77289895"
+        }
+      }
+    },
+    "4959962": {
+      "config": {
+        "osarch": "64",
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "download": "88247008",
+          "gid": "2903796324026082192",
+          "size": "188211443"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "25372162",
+        "timebuildupdated": "1789659423",
+        "timeupdated": "1789659459"
+      }
+    }
+  },
+  "extended": {
+    "developer": "Missroot",
+    "homepage": "https://missroot.com/zone-sweeper",
+    "isfreeapp": "1",
+    "publisher": "Missroot"
+  }
+}

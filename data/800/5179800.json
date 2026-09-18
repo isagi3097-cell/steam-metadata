@@ -1,0 +1,162 @@
+{
+  "_lastChecked": 1789725352,
+  "_history": [],
+  "_change_number": 38959116,
+  "_missing_token": true,
+  "_sha": "17caa755fe035c5c0f6d4085b68336759bb70cd5",
+  "_size": 3479,
+  "appid": "5179800",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Mooter Vision Games",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Mooter Vision Games",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_17": "1",
+      "category_2": "1",
+      "category_23": "1",
+      "category_25": "1",
+      "category_28": "1",
+      "category_55": "1",
+      "category_56": "1",
+      "category_57": "1",
+      "category_58": "1",
+      "category_62": "1",
+      "category_68": "1",
+      "category_74": "1"
+    },
+    "clienticns": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "clienticon": "599380b9537ca76966f5a1640988671f22424909",
+    "community_hub_visible": "1",
+    "controller_support": "full",
+    "controllertagwizard": "1",
+    "exfgls": "8",
+    "gameid": "5179800",
+    "genres": {
+      "0": "1",
+      "1": "4",
+      "2": "23",
+      "3": "9",
+      "4": "18"
+    },
+    "header_image": {
+      "english": "1d3700831429e115d737dfb0a0eb5786f2c844f3/header.jpg"
+    },
+    "icon": "599380b9537ca76966f5a1640988671f22424909",
+    "library_assets": {
+      "library_capsule": "en",
+      "library_header": "en",
+      "library_hero": "en",
+      "library_hero_blur": "en",
+      "library_logo": "en",
+      "logo_position": {
+        "height_pct": "22.86411422645959",
+        "pinned_position": "BottomCenter",
+        "width_pct": "30.927621548357536"
+      }
+    },
+    "library_assets_full": {
+      "library_capsule": {
+        "image": {
+          "english": "7224504ed95a986311e854e448a561b20213fa7a/library_capsule.jpg"
+        },
+        "image2x": {
+          "english": "7224504ed95a986311e854e448a561b20213fa7a/library_capsule_2x.jpg"
+        }
+      },
+      "library_header": {
+        "image": {
+          "english": "470983b697ed5a523d0ebd7256499a91baff01c0/library_header.jpg"
+        },
+        "image2x": {
+          "english": "470983b697ed5a523d0ebd7256499a91baff01c0/library_header_2x.jpg"
+        }
+      },
+      "library_hero": {
+        "image": {
+          "english": "915ce63ab8c4c61bfe847ee7a442bc82f3703b5d/library_hero.jpg"
+        },
+        "image2x": {
+          "english": "915ce63ab8c4c61bfe847ee7a442bc82f3703b5d/library_hero_2x.jpg"
+        }
+      },
+      "library_hero_blur": {
+        "image": {
+          "english": "915ce63ab8c4c61bfe847ee7a442bc82f3703b5d/library_hero_blur.jpg"
+        }
+      },
+      "library_logo": {
+        "image": {
+          "english": "4077db1d4323def8def83c0e1202ecf1b0bfdbc4/logo.png"
+        },
+        "image2x": {
+          "english": "4077db1d4323def8def83c0e1202ecf1b0bfdbc4/logo_2x.png"
+        },
+        "logo_position": {
+          "height_pct": "22.86411422645959",
+          "pinned_position": "BottomCenter",
+          "width_pct": "30.927621548357536"
+        }
+      }
+    },
+    "name": "Cone & Crest",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows,macos",
+    "primary_genre": "18",
+    "releasestate": "prerelease",
+    "small_capsule": {
+      "english": "41ba6e5adad7d9647b8dfe943a473ce220a550ac/capsule_231x87.jpg"
+    },
+    "store_asset_mtime": "1789642467",
+    "store_tags": {
+      "0": "699",
+      "1": "701",
+      "10": "5390",
+      "11": "492",
+      "12": "597",
+      "2": "19",
+      "3": "1644",
+      "4": "1100687",
+      "5": "4191",
+      "6": "4791",
+      "7": "4252",
+      "8": "3968",
+      "9": "4182"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "supported": "true"
+      },
+      "english": {
+        "supported": "true"
+      },
+      "french": {
+        "supported": "true"
+      },
+      "german": {
+        "supported": "true"
+      },
+      "japanese": {
+        "supported": "true"
+      },
+      "russian": {
+        "supported": "true"
+      },
+      "schinese": {
+        "supported": "true"
+      },
+      "spanish": {
+        "supported": "true"
+      }
+    },
+    "type": "Game"
+  },
+  "public_only": "1"
+}

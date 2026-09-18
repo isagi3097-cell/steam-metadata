@@ -1,0 +1,905 @@
+{
+  "_lastChecked": 1789721930,
+  "_history": [
+    {
+      "buildId": "18296430",
+      "branch": "experimental",
+      "timeUpdated": 1752902900,
+      "firstSeen": 1788622472,
+      "manifests": {
+        "2062941": {
+          "gid": "2277448891429433202",
+          "size": 22156856134,
+          "download": 21131197824
+        },
+        "2062942": {
+          "gid": "7630719750852018266",
+          "size": 12270672951,
+          "download": 12007151056
+        }
+      }
+    },
+    {
+      "buildId": "18296430",
+      "branch": "public",
+      "timeUpdated": 1752902871,
+      "firstSeen": 1788622472,
+      "manifests": {
+        "2062941": {
+          "gid": "2277448891429433202",
+          "size": 22156856134,
+          "download": 21131197824
+        },
+        "2062942": {
+          "gid": "7630719750852018266",
+          "size": 12270672951,
+          "download": 12007151056
+        }
+      }
+    },
+    {
+      "buildId": "9224234",
+      "branch": "territory_alpha_1.9.3",
+      "timeUpdated": 1659319540,
+      "firstSeen": 1788622472,
+      "manifests": {
+        "2062941": {
+          "gid": "1462637211448234029",
+          "size": 12821841598,
+          "download": 4551411776
+        }
+      }
+    },
+    {
+      "buildId": "9244787",
+      "branch": "territory_alpha_2.0.5.1",
+      "timeUpdated": 1660227892,
+      "firstSeen": 1788622472,
+      "manifests": {
+        "2062941": {
+          "gid": "7820402967971722421",
+          "size": 12892709740,
+          "download": 4591729952
+        }
+      }
+    },
+    {
+      "buildId": "9340087",
+      "branch": "territory_alpha_3.3.1",
+      "timeUpdated": 1661170765,
+      "firstSeen": 1788622472,
+      "manifests": {
+        "2062941": {
+          "gid": "1906072886193013359",
+          "size": 13166535523,
+          "download": 4710754048
+        }
+      }
+    },
+    {
+      "buildId": "9734576",
+      "branch": "territory_alpha_4.25",
+      "timeUpdated": 1669645088,
+      "firstSeen": 1788622472,
+      "manifests": {
+        "2062941": {
+          "gid": "2444082322093908793",
+          "size": 12713266496,
+          "download": 5544903680
+        }
+      }
+    },
+    {
+      "buildId": "13051939",
+      "branch": "territory_alpha_5.127.2",
+      "timeUpdated": 1703680568,
+      "firstSeen": 1788622472,
+      "manifests": {
+        "2062941": {
+          "gid": "2655269238770800325",
+          "size": 12740779707,
+          "download": 12426003008
+        },
+        "2062942": {
+          "gid": "7630719750852018266",
+          "size": 12270672951,
+          "download": 12007151056
+        }
+      }
+    },
+    {
+      "buildId": "25195176",
+      "branch": "experimental",
+      "timeUpdated": 1788900119,
+      "firstSeen": 1788905969,
+      "manifests": {
+        "2062941": {
+          "gid": "8946853769867307896",
+          "size": 12900365205,
+          "download": 12084523984
+        },
+        "2062942": {
+          "gid": "6970994208677616339",
+          "size": 14806521298,
+          "download": 13093924224
+        }
+      }
+    },
+    {
+      "buildId": "25199102",
+      "branch": "experimental",
+      "timeUpdated": 1788918310,
+      "firstSeen": 1788918494,
+      "manifests": {
+        "2062941": {
+          "gid": "1176680804670332481",
+          "size": 12900576277,
+          "download": 12086546544
+        },
+        "2062942": {
+          "gid": "2012640055635608404",
+          "size": 14808911051,
+          "download": 13095789200
+        }
+      }
+    },
+    {
+      "buildId": "25203549",
+      "branch": "experimental",
+      "timeUpdated": 1788940115,
+      "firstSeen": 1788941462,
+      "manifests": {
+        "2062941": {
+          "gid": "2740287125049393900",
+          "size": 12900648469,
+          "download": 12083480224
+        },
+        "2062942": {
+          "gid": "5756052414778843129",
+          "size": 14809544715,
+          "download": 13096101984
+        }
+      }
+    },
+    {
+      "buildId": "25212920",
+      "branch": "experimental",
+      "timeUpdated": 1788970721,
+      "firstSeen": 1788971494,
+      "manifests": {
+        "2062941": {
+          "gid": "3092593415382640736",
+          "size": 12901711241,
+          "download": 12086935904
+        },
+        "2062942": {
+          "gid": "7672595009310461111",
+          "size": 14810375830,
+          "download": 13097063776
+        }
+      }
+    },
+    {
+      "buildId": "25227918",
+      "branch": "experimental",
+      "timeUpdated": 1789033899,
+      "firstSeen": 1789038839,
+      "manifests": {
+        "2062941": {
+          "gid": "8943317493907360824",
+          "size": 12979039205,
+          "download": 12161023792
+        },
+        "2062942": {
+          "gid": "3324393781063558473",
+          "size": 14889093788,
+          "download": 13166910688
+        }
+      }
+    },
+    {
+      "buildId": "25231520",
+      "branch": "experimental",
+      "timeUpdated": 1789045589,
+      "firstSeen": 1789052191,
+      "manifests": {
+        "2062941": {
+          "gid": "2354104404405244667",
+          "size": 12979038700,
+          "download": 12157872256
+        },
+        "2062942": {
+          "gid": "4529857902873305634",
+          "size": 14889105764,
+          "download": 13168049744
+        }
+      }
+    },
+    {
+      "buildId": "25240397",
+      "branch": "experimental",
+      "timeUpdated": 1789075708,
+      "firstSeen": 1789078901,
+      "manifests": {
+        "2062941": {
+          "gid": "4070761078858353077",
+          "size": 12942787665,
+          "download": 12125059376
+        },
+        "2062942": {
+          "gid": "4529857902873305634",
+          "size": 14889105764,
+          "download": 13168049744
+        }
+      }
+    },
+    {
+      "buildId": "25247238",
+      "branch": "experimental",
+      "timeUpdated": 1789108758,
+      "firstSeen": 1789111016,
+      "manifests": {
+        "2062941": {
+          "gid": "3487805065776646802",
+          "size": 12942910040,
+          "download": 12128159600
+        },
+        "2062942": {
+          "gid": "4356865021330827171",
+          "size": 14853435927,
+          "download": 13136108144
+        }
+      }
+    },
+    {
+      "buildId": "25262088",
+      "branch": "experimental",
+      "timeUpdated": 1789159864,
+      "firstSeen": 1789159987,
+      "manifests": {
+        "2062941": {
+          "gid": "6055057211482126908",
+          "size": 12942919761,
+          "download": 12126336640
+        },
+        "2062942": {
+          "gid": "4762247521278355341",
+          "size": 14853515292,
+          "download": 13133961616
+        }
+      }
+    },
+    {
+      "buildId": "25266320",
+      "branch": "experimental",
+      "timeUpdated": 1789181573,
+      "firstSeen": 1789187407,
+      "manifests": {
+        "2062941": {
+          "gid": "7285017558620862358",
+          "size": 12946627997,
+          "download": 12132810384
+        },
+        "2062942": {
+          "gid": "1358127788319787176",
+          "size": 14857220787,
+          "download": 13143720144
+        }
+      }
+    },
+    {
+      "buildId": "25268229",
+      "branch": "experimental",
+      "timeUpdated": 1789196621,
+      "firstSeen": 1789200063,
+      "manifests": {
+        "2062941": {
+          "gid": "5867236192021589220",
+          "size": 12946617252,
+          "download": 12132816352
+        },
+        "2062942": {
+          "gid": "3921794555853165525",
+          "size": 14857250556,
+          "download": 13139659888
+        }
+      }
+    },
+    {
+      "buildId": "25271969",
+      "branch": "experimental",
+      "timeUpdated": 1789223321,
+      "firstSeen": 1789227102,
+      "manifests": {
+        "2062941": {
+          "gid": "8511857341599994781",
+          "size": 12946058756,
+          "download": 12130209344
+        },
+        "2062942": {
+          "gid": "4253182357096233448",
+          "size": 13363017927,
+          "download": 12085809696
+        }
+      }
+    },
+    {
+      "buildId": "25282059",
+      "branch": "experimental",
+      "timeUpdated": 1789297782,
+      "firstSeen": 1789299369,
+      "manifests": {
+        "2062941": {
+          "gid": "9000635742674452918",
+          "size": 13040475778,
+          "download": 12225115328
+        },
+        "2062942": {
+          "gid": "6000012595246183096",
+          "size": 14951964055,
+          "download": 13231640272
+        }
+      }
+    },
+    {
+      "buildId": "25293872",
+      "branch": "experimental",
+      "timeUpdated": 1789367629,
+      "firstSeen": 1789369081,
+      "manifests": {
+        "2062941": {
+          "gid": "1522540906346174984",
+          "size": 13040755381,
+          "download": 12223357792
+        },
+        "2062942": {
+          "gid": "6000012595246183096",
+          "size": 14951964055,
+          "download": 13231640272
+        }
+      }
+    },
+    {
+      "buildId": "25294170",
+      "branch": "experimental",
+      "timeUpdated": 1789369242,
+      "firstSeen": 1789376327,
+      "manifests": {
+        "2062941": {
+          "gid": "3189553907738650187",
+          "size": 13040755381,
+          "download": 12225605056
+        },
+        "2062942": {
+          "gid": "8610503696662578579",
+          "size": 14953516427,
+          "download": 13231153200
+        }
+      }
+    },
+    {
+      "buildId": "25305493",
+      "branch": "experimental",
+      "timeUpdated": 1789407008,
+      "firstSeen": 1789410200,
+      "manifests": {
+        "2062941": {
+          "gid": "4107449183988736945",
+          "size": 13040958373,
+          "download": 12226479216
+        },
+        "2062942": {
+          "gid": "5493580522204397294",
+          "size": 14954697174,
+          "download": 13234310096
+        }
+      }
+    },
+    {
+      "buildId": "25313830",
+      "branch": "experimental",
+      "timeUpdated": 1789441028,
+      "firstSeen": 1789442367,
+      "manifests": {
+        "2062941": {
+          "gid": "5149526318156184354",
+          "size": 13041015717,
+          "download": 12223464816
+        },
+        "2062942": {
+          "gid": "5810455159873175217",
+          "size": 14955082562,
+          "download": 13232616864
+        }
+      }
+    },
+    {
+      "buildId": "25320441",
+      "branch": "experimental",
+      "timeUpdated": 1789468297,
+      "firstSeen": 1789469652,
+      "manifests": {
+        "2062941": {
+          "gid": "1089605668248792064",
+          "size": 11010257229,
+          "download": 10282969136
+        },
+        "2062942": {
+          "gid": "5099163604869447640",
+          "size": 12932339144,
+          "download": 11297908896
+        }
+      }
+    },
+    {
+      "buildId": "25340197",
+      "branch": "experimental",
+      "timeUpdated": 1789542497,
+      "firstSeen": 1789551724,
+      "manifests": {
+        "2062941": {
+          "gid": "5490996633509265185",
+          "size": 11010327373,
+          "download": 10282858128
+        },
+        "2062942": {
+          "gid": "5386365153289376015",
+          "size": 12932776516,
+          "download": 11299254752
+        }
+      }
+    },
+    {
+      "buildId": "25344794",
+      "branch": "experimental",
+      "timeUpdated": 1789558541,
+      "firstSeen": 1789558697,
+      "manifests": {
+        "2062941": {
+          "gid": "6566641175192004976",
+          "size": 11013238991,
+          "download": 10284870176
+        },
+        "2062942": {
+          "gid": "5386365153289376015",
+          "size": 12932776516,
+          "download": 11299254752
+        }
+      }
+    },
+    {
+      "buildId": "25345680",
+      "branch": "experimental",
+      "timeUpdated": 1789561269,
+      "firstSeen": 1789565739,
+      "manifests": {
+        "2062941": {
+          "gid": "1862789142743459488",
+          "size": 11013238984,
+          "download": 10284870112
+        },
+        "2062942": {
+          "gid": "4908792824480420019",
+          "size": 12935530208,
+          "download": 11303239008
+        }
+      }
+    },
+    {
+      "buildId": "25358689",
+      "branch": "experimental",
+      "timeUpdated": 1789607407,
+      "firstSeen": 1789608492,
+      "manifests": {
+        "2062941": {
+          "gid": "8464510780863142933",
+          "size": 11013240520,
+          "download": 10284852576
+        },
+        "2062942": {
+          "gid": "7460976846424469466",
+          "size": 12935546986,
+          "download": 11303289968
+        }
+      }
+    },
+    {
+      "buildId": "25364289",
+      "branch": "experimental",
+      "timeUpdated": 1789634213,
+      "firstSeen": 1789638665,
+      "manifests": {
+        "2062941": {
+          "gid": "713937659628152173",
+          "size": 11015770430,
+          "download": 10287372000
+        },
+        "2062942": {
+          "gid": "7460976846424469466",
+          "size": 12935546986,
+          "download": 11303289968
+        }
+      }
+    },
+    {
+      "buildId": "25366762",
+      "branch": "experimental",
+      "timeUpdated": 1789642512,
+      "firstSeen": 1789646039,
+      "manifests": {
+        "2062941": {
+          "gid": "7864679799054453993",
+          "size": 11015795013,
+          "download": 10286992224
+        },
+        "2062942": {
+          "gid": "7460976846424469466",
+          "size": 12935546986,
+          "download": 11303289968
+        }
+      }
+    }
+  ],
+  "_change_number": 38959125,
+  "_missing_token": false,
+  "_sha": "b2930ace9c9f9090f93d036848dc94c924861e07",
+  "_size": 8039,
+  "appid": "2062940",
+  "common": {
+    "aicontenttype": "1",
+    "associations": {
+      "0": {
+        "name": "Threat Vector",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Threat Vector",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_36": "1",
+      "category_38": "1",
+      "category_47": "1",
+      "category_48": "1",
+      "category_49": "1",
+      "category_62": "1",
+      "category_9": "1"
+    },
+    "clienticns": "c23e6b7b1ff52024d769e967617b84d730369eb7",
+    "clienticon": "d6a59d097e9b6072e4e54303d42905d990a4c24d",
+    "clienttga": "f73b55ff02a18028115b78e00903b8e952eb4542",
+    "community_hub_visible": "1",
+    "content_descriptors": {
+      "0": "2",
+      "1": "5"
+    },
+    "content_descriptors_including_dlc": {
+      "0": "2",
+      "1": "5"
+    },
+    "eulas": {
+      "0": {
+        "id": "2062940_eula_0",
+        "name": "Territory EULA",
+        "url": "https://store.steampowered.com//eula/2062940_eula_0",
+        "version": "1"
+      }
+    },
+    "gameid": "2062940",
+    "genres": {
+      "0": "1",
+      "1": "25",
+      "2": "70"
+    },
+    "header_image": {
+      "english": "header.jpg"
+    },
+    "icon": "60ece798e51296e1bbb7997f961ece7e8171bf33",
+    "library_assets": {
+      "library_capsule": "en",
+      "library_header": "en",
+      "library_hero": "en",
+      "library_logo": "en",
+      "logo_position": {
+        "height_pct": "69.37781999525055",
+        "pinned_position": "BottomLeft",
+        "width_pct": "72.52769507255708"
+      }
+    },
+    "library_assets_full": {
+      "library_capsule": {
+        "image": {
+          "english": "library_600x900.jpg"
+        },
+        "image2x": {
+          "english": "library_600x900_2x.jpg"
+        }
+      },
+      "library_header": {
+        "image": {
+          "english": "c14c04c52d300be8e51fa1f8cea00fdbde1bb8b5/library_header.jpg"
+        },
+        "image2x": {
+          "english": "c14c04c52d300be8e51fa1f8cea00fdbde1bb8b5/library_header_2x.jpg"
+        }
+      },
+      "library_hero": {
+        "image": {
+          "english": "library_hero.jpg"
+        },
+        "image2x": {
+          "english": "library_hero_2x.jpg"
+        }
+      },
+      "library_logo": {
+        "image": {
+          "english": "logo.png"
+        },
+        "image2x": {
+          "english": "logo_2x.png"
+        },
+        "logo_position": {
+          "height_pct": "69.37781999525055",
+          "pinned_position": "BottomLeft",
+          "width_pct": "72.52769507255708"
+        }
+      }
+    },
+    "linuxclienticon": "65d9efb42679682298681c88b70d80eff462f2c2",
+    "name": "Territory",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "primary_genre": "70",
+    "releasestate": "released",
+    "review_percentage": "64",
+    "review_score": "5",
+    "small_capsule": {
+      "english": "capsule_231x87.jpg"
+    },
+    "steam_deck_compatibility": {
+      "category": "1",
+      "configuration": {
+        "gamescope_frame_limiter_not_supported": "0",
+        "hdr_support": "0",
+        "non_deck_display_glyphs": "1",
+        "primary_player_is_controller_slot_0": "0",
+        "recommended_runtime": "proton-stable",
+        "requires_h264": "1",
+        "requires_internet_for_setup": "0",
+        "requires_internet_for_singleplayer": "0",
+        "requires_manual_keyboard_invoke": "1",
+        "requires_non_controller_launcher_nav": "0",
+        "requires_proton_soundfonts": "0",
+        "requires_voice_files": "0",
+        "small_text": "1",
+        "supported_input": "gamepad"
+      },
+      "steam_machine_compatibility": "0",
+      "steam_machine_tests": {},
+      "steamos_compatibility": "1",
+      "steamos_tests": {
+        "0": {
+          "display": "2",
+          "token": "#SteamOS_TestResult_SteamOSDoesNotSupport"
+        }
+      },
+      "test_timestamp": "1682985600",
+      "tested_build_id": "2062940",
+      "tests": {
+        "0": {
+          "display": "2",
+          "token": "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+        }
+      }
+    },
+    "steam_release_date": "1657354300",
+    "store_asset_mtime": "1728639180",
+    "store_tags": {
+      "0": "3834",
+      "1": "353880",
+      "10": "1721",
+      "11": "1695",
+      "12": "19",
+      "13": "4175",
+      "14": "1708",
+      "15": "4236",
+      "16": "1643",
+      "17": "1662",
+      "18": "1702",
+      "19": "30358",
+      "2": "3810",
+      "3": "1775",
+      "4": "1774",
+      "5": "4106",
+      "6": "1697",
+      "7": "3839",
+      "8": "1667",
+      "9": "3920"
+    },
+    "supported_languages": {
+      "english": {
+        "full_audio": "true",
+        "supported": "true"
+      }
+    },
+    "type": "Game"
+  },
+  "config": {
+    "installdir": "Territory",
+    "launch": {
+      "0": {
+        "config": {
+          "osarch": "64",
+          "oslist": "windows"
+        },
+        "description": "Windows",
+        "description_loc": {
+          "english": "Windows"
+        },
+        "executable": "Territory.exe"
+      },
+      "1": {
+        "config": {
+          "oslist": "linux"
+        },
+        "description": "Linux",
+        "description_loc": {
+          "english": "Linux"
+        },
+        "executable": "Territory.sh",
+        "type": "default"
+      }
+    }
+  },
+  "depots": {
+    "2062941": {
+      "config": {
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "experimental": {
+          "download": "10286992224",
+          "gid": "7864679799054453993",
+          "size": "11015795013"
+        },
+        "public": {
+          "download": "21131197824",
+          "gid": "2277448891429433202",
+          "size": "22156856134"
+        },
+        "territory_alpha_1.9.3": {
+          "download": "4551411776",
+          "gid": "1462637211448234029",
+          "size": "12821841598"
+        },
+        "territory_alpha_2.0.5.1": {
+          "download": "4591729952",
+          "gid": "7820402967971722421",
+          "size": "12892709740"
+        },
+        "territory_alpha_3.3.1": {
+          "download": "4710754048",
+          "gid": "1906072886193013359",
+          "size": "13166535523"
+        },
+        "territory_alpha_4.25": {
+          "download": "5544903680",
+          "gid": "2444082322093908793",
+          "size": "12713266496"
+        },
+        "territory_alpha_5.127.2": {
+          "download": "12426003008",
+          "gid": "2655269238770800325",
+          "size": "12740779707"
+        }
+      }
+    },
+    "2062942": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "experimental": {
+          "download": "11303289968",
+          "gid": "7460976846424469466",
+          "size": "12935546986"
+        },
+        "public": {
+          "download": "12007151056",
+          "gid": "7630719750852018266",
+          "size": "12270672951"
+        },
+        "territory_alpha_5.127.2": {
+          "download": "12007151056",
+          "gid": "7630719750852018266",
+          "size": "12270672951"
+        }
+      }
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980",
+      "sharedinstall": "1"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980",
+      "sharedinstall": "1"
+    },
+    "branches": {
+      "experimental": {
+        "buildid": "25366762",
+        "description": "Beta testing",
+        "timebuildupdated": "1789642512",
+        "timeupdated": "1789642512"
+      },
+      "public": {
+        "buildid": "18296430",
+        "timebuildupdated": "1746019594",
+        "timeupdated": "1752902871"
+      },
+      "territory_alpha_1.9.3": {
+        "buildid": "9224234",
+        "description": "Final Alpha 1 Version",
+        "timebuildupdated": "1659262650",
+        "timeupdated": "1659319540"
+      },
+      "territory_alpha_2.0.5.1": {
+        "buildid": "9244787",
+        "description": "Final Alpha 2 Version",
+        "timebuildupdated": "1659530986",
+        "timeupdated": "1660227892"
+      },
+      "territory_alpha_3.3.1": {
+        "buildid": "9340087",
+        "description": "Final Alpha 3 Version",
+        "timebuildupdated": "1660829715",
+        "timeupdated": "1661170765"
+      },
+      "territory_alpha_4.25": {
+        "buildid": "9734576",
+        "description": "Final Alpha 4 Version",
+        "timebuildupdated": "1665987683",
+        "timeupdated": "1669645088"
+      },
+      "territory_alpha_5.127.2": {
+        "buildid": "13051939",
+        "description": "Final Alpha 5 Version",
+        "timebuildupdated": "1703680568",
+        "timeupdated": "1703680568"
+      }
+    },
+    "privatebranches": "1"
+  },
+  "extended": {
+    "developer": "Threat Vector",
+    "gamedir": "territory",
+    "homepage": "https://trello.com/b/8kVsmUCM/territory-game-development",
+    "publisher": "Threat Vector",
+    "serverbrowsername": "Territory"
+  },
+  "ufs": {
+    "maxnumfiles": "10000",
+    "quota": "500000000",
+    "savefiles": {
+      "0": {
+        "path": "Territory/Saved/TerritoryNativeSaves/Standalone",
+        "pattern": "*.json",
+        "platforms": {
+          "1": "Windows"
+        },
+        "recursive": "1",
+        "root": "WinAppDataLocal"
+      }
+    }
+  }
+}

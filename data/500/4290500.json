@@ -1,0 +1,466 @@
+{
+  "_lastChecked": 1789724500,
+  "_history": [
+    {
+      "buildId": "25139296",
+      "branch": "public",
+      "timeUpdated": 1788601206,
+      "firstSeen": 1788629258,
+      "manifests": {
+        "4290501": {
+          "gid": "6399552580608444452",
+          "size": 10840639233,
+          "download": 686148736
+        }
+      }
+    },
+    {
+      "buildId": "25226107",
+      "branch": "public",
+      "timeUpdated": 1789027888,
+      "firstSeen": 1789029219,
+      "manifests": {
+        "4290501": {
+          "gid": "196290028475748020",
+          "size": 10990907697,
+          "download": 689716272
+        }
+      }
+    },
+    {
+      "buildId": "25227999",
+      "branch": "public",
+      "timeUpdated": 1789034213,
+      "firstSeen": 1789034930,
+      "manifests": {
+        "4290501": {
+          "gid": "7464947940371103636",
+          "size": 10990036713,
+          "download": 689769136
+        }
+      }
+    },
+    {
+      "buildId": "25230845",
+      "branch": "public",
+      "timeUpdated": 1789043684,
+      "firstSeen": 1789047292,
+      "manifests": {
+        "4290501": {
+          "gid": "3582137066204107865",
+          "size": 10990027793,
+          "download": 689740272
+        }
+      }
+    },
+    {
+      "buildId": "25233711",
+      "branch": "public",
+      "timeUpdated": 1789052584,
+      "firstSeen": 1789054878,
+      "manifests": {
+        "4290501": {
+          "gid": "3327244640637922113",
+          "size": 10997003829,
+          "download": 689808496
+        }
+      }
+    },
+    {
+      "buildId": "25249474",
+      "branch": "public",
+      "timeUpdated": 1789117438,
+      "firstSeen": 1789120940,
+      "manifests": {
+        "4290501": {
+          "gid": "4768923936206051663",
+          "size": 11001705265,
+          "download": 691148544
+        }
+      }
+    },
+    {
+      "buildId": "25254171",
+      "branch": "public",
+      "timeUpdated": 1789132841,
+      "firstSeen": 1789133701,
+      "manifests": {
+        "4290501": {
+          "gid": "3450602467634293642",
+          "size": 11000672195,
+          "download": 691152368
+        }
+      }
+    },
+    {
+      "buildId": "25255796",
+      "branch": "public",
+      "timeUpdated": 1789137986,
+      "firstSeen": 1789140578,
+      "manifests": {
+        "4290501": {
+          "gid": "288201864227119194",
+          "size": 11001727199,
+          "download": 691181120
+        }
+      }
+    },
+    {
+      "buildId": "25258059",
+      "branch": "public",
+      "timeUpdated": 1789145005,
+      "firstSeen": 1789148021,
+      "manifests": {
+        "4290501": {
+          "gid": "1673660934458351244",
+          "size": 11000681767,
+          "download": 691180496
+        }
+      }
+    },
+    {
+      "buildId": "25270691",
+      "branch": "public",
+      "timeUpdated": 1789215476,
+      "firstSeen": 1789215730,
+      "manifests": {
+        "4290501": {
+          "gid": "8197886728664160566",
+          "size": 11001871487,
+          "download": 691239520
+        }
+      }
+    },
+    {
+      "buildId": "25279618",
+      "branch": "public",
+      "timeUpdated": 1789278139,
+      "firstSeen": 1789278521,
+      "manifests": {
+        "4290501": {
+          "gid": "9160967600133722046",
+          "size": 11001882823,
+          "download": 691215264
+        }
+      }
+    },
+    {
+      "buildId": "25282090",
+      "branch": "public",
+      "timeUpdated": 1789298526,
+      "firstSeen": 1789301994,
+      "manifests": {
+        "4290501": {
+          "gid": "4297430012827207290",
+          "size": 10997372128,
+          "download": 691613024
+        }
+      }
+    },
+    {
+      "buildId": "25326751",
+      "branch": "public",
+      "timeUpdated": 1789487373,
+      "firstSeen": 1789492767,
+      "manifests": {
+        "4290501": {
+          "gid": "5358795011220202895",
+          "size": 10998056124,
+          "download": 691740608
+        }
+      }
+    },
+    {
+      "buildId": "25338505",
+      "branch": "public",
+      "timeUpdated": 1789533395,
+      "firstSeen": 1789537236,
+      "manifests": {
+        "4290501": {
+          "gid": "1784137521580224069",
+          "size": 10996897116,
+          "download": 691733392
+        }
+      }
+    },
+    {
+      "buildId": "25342233",
+      "branch": "public",
+      "timeUpdated": 1789550246,
+      "firstSeen": 1789554091,
+      "manifests": {
+        "4290501": {
+          "gid": "1687793104692217437",
+          "size": 10996965772,
+          "download": 691740480
+        }
+      }
+    },
+    {
+      "buildId": "25343862",
+      "branch": "public",
+      "timeUpdated": 1789556105,
+      "firstSeen": 1789561048,
+      "manifests": {
+        "4290501": {
+          "gid": "5001060676009504373",
+          "size": 10998040004,
+          "download": 691794832
+        }
+      }
+    },
+    {
+      "buildId": "25349994",
+      "branch": "public",
+      "timeUpdated": 1789574396,
+      "firstSeen": 1789574886,
+      "manifests": {
+        "4290501": {
+          "gid": "204324921618165450",
+          "size": 10998056536,
+          "download": 691792848
+        }
+      }
+    },
+    {
+      "buildId": "25363680",
+      "branch": "public",
+      "timeUpdated": 1789632075,
+      "firstSeen": 1789633966,
+      "manifests": {
+        "4290501": {
+          "gid": "2365215969411978373",
+          "size": 10998252960,
+          "download": 691787968
+        }
+      }
+    },
+    {
+      "buildId": "25364680",
+      "branch": "public",
+      "timeUpdated": 1789635604,
+      "firstSeen": 1789640920,
+      "manifests": {
+        "4290501": {
+          "gid": "5594640448987608227",
+          "size": 10997203792,
+          "download": 691780992
+        }
+      }
+    },
+    {
+      "buildId": "25373590",
+      "branch": "public",
+      "timeUpdated": 1789664180,
+      "firstSeen": 1789675241,
+      "manifests": {
+        "4290501": {
+          "gid": "4579225743638598051",
+          "size": 10999410844,
+          "download": 692005792
+        }
+      }
+    }
+  ],
+  "_change_number": 38969579,
+  "_missing_token": false,
+  "_sha": "bfb40c86de3104be95a09c8ecb12c146ca2ba904",
+  "_size": 4240,
+  "appid": "4290500",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "LTN STUDIO",
+        "type": "developer"
+      },
+      "1": {
+        "name": "LTN STUDIO",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_62": "1",
+      "category_79": "1"
+    },
+    "clienticon": "ff29c11f9ae546dbb6e157527032cf1bd00172f4",
+    "community_hub_visible": "1",
+    "community_visible_stats": "1",
+    "controllertagwizard": "1",
+    "gameid": "4290500",
+    "genres": {
+      "0": "1",
+      "1": "25",
+      "2": "23",
+      "3": "3"
+    },
+    "header_image": {
+      "english": "a006e5c75a6abc17f70e1e9e54b14ecdb822c8db/header.jpg"
+    },
+    "icon": "ff29c11f9ae546dbb6e157527032cf1bd00172f4",
+    "library_assets": {
+      "library_capsule": "en",
+      "library_header": "en",
+      "library_hero": "en",
+      "library_hero_blur": "en",
+      "library_logo": "en",
+      "logo_position": {
+        "height_pct": "43.945127719962144",
+        "pinned_position": "BottomLeft",
+        "width_pct": "57.83132589753744"
+      }
+    },
+    "library_assets_full": {
+      "library_capsule": {
+        "image": {
+          "english": "6ee7e5db154b5d9533b3740d2193a1755c08822d/library_capsule.jpg"
+        },
+        "image2x": {
+          "english": "6ee7e5db154b5d9533b3740d2193a1755c08822d/library_capsule_2x.jpg"
+        }
+      },
+      "library_header": {
+        "image": {
+          "english": "a006e5c75a6abc17f70e1e9e54b14ecdb822c8db/library_header.jpg"
+        },
+        "image2x": {
+          "english": "a006e5c75a6abc17f70e1e9e54b14ecdb822c8db/library_header_2x.jpg"
+        }
+      },
+      "library_hero": {
+        "image": {
+          "english": "4ffe61abc257e40f4cb4d5b668e771320e00d9d9/library_hero.jpg"
+        },
+        "image2x": {
+          "english": "4ffe61abc257e40f4cb4d5b668e771320e00d9d9/library_hero_2x.jpg"
+        }
+      },
+      "library_hero_blur": {
+        "image": {
+          "english": "4ffe61abc257e40f4cb4d5b668e771320e00d9d9/library_hero_blur.jpg"
+        }
+      },
+      "library_logo": {
+        "image": {
+          "english": "b0438ee50500bcd20b02099218f34328f9c2b674/logo.png"
+        },
+        "image2x": {
+          "english": "b0438ee50500bcd20b02099218f34328f9c2b674/logo_2x.png"
+        },
+        "logo_position": {
+          "height_pct": "43.945127719962144",
+          "pinned_position": "BottomLeft",
+          "width_pct": "57.83132589753744"
+        }
+      }
+    },
+    "name": "BOXPAST LOV3YOU",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "be1d6ad7d5e5deed4f62e31448ffb27ac4ee2c7b/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1782385503",
+    "store_asset_mtime": "1789007392",
+    "store_tags": {
+      "0": "19",
+      "1": "21",
+      "10": "5752",
+      "11": "6426",
+      "12": "6971",
+      "13": "1646",
+      "14": "3871",
+      "15": "4026",
+      "16": "4231",
+      "17": "4252",
+      "18": "4562",
+      "19": "4777",
+      "2": "122",
+      "3": "492",
+      "4": "3959",
+      "5": "4057",
+      "6": "4182",
+      "7": "4236",
+      "8": "4726",
+      "9": "5379"
+    },
+    "supported_languages": {
+      "english": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "vietnamese": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "Game"
+  },
+  "config": {
+    "installdir": "BOXPASTLOV3YOU",
+    "launch": {
+      "0": {
+        "config": {
+          "oslist": "windows"
+        },
+        "executable": "BOXPASTLOV3YOU.exe",
+        "type": "default"
+      }
+    }
+  },
+  "depots": {
+    "4290501": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "692005792",
+          "gid": "4579225743638598051",
+          "size": "10999410844"
+        }
+      }
+    },
+    "baselanguages": "english,vietnamese",
+    "branches": {
+      "public": {
+        "buildid": "25373590",
+        "timebuildupdated": "1789663960",
+        "timeupdated": "1789664180"
+      }
+    }
+  },
+  "extended": {
+    "developer": "LTN STUDIO",
+    "homepage": "https://www.boxpast.com/",
+    "publisher": "LTN STUDIO"
+  },
+  "ufs": {
+    "hidecloudui": "1",
+    "ignoreexternalfiles": "1",
+    "maxnumfiles": "10",
+    "quota": "20000000",
+    "sync_while_suspended": "1"
+  }
+}

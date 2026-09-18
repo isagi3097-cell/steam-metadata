@@ -1,0 +1,181 @@
+{
+  "_lastChecked": 1789725224,
+  "_history": [],
+  "_change_number": 38824738,
+  "_missing_token": true,
+  "_sha": "ee8ad6b14222ff7028b7a2d1a25f7ea9c5c9a6a9",
+  "_size": 3772,
+  "appid": "5019800",
+  "common": {
+    "aicontenttype": "1",
+    "associations": {
+      "0": {
+        "name": "ANLI GAMES",
+        "type": "developer"
+      },
+      "1": {
+        "name": "ANLI GAMES",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_2": "1",
+      "category_62": "1",
+      "category_67": "1",
+      "category_68": "1",
+      "category_69": "1",
+      "category_74": "1",
+      "category_79": "1",
+      "category_80": "1"
+    },
+    "clienticon": "68904c17d82c4210f7477980a38b15e6f8afec92",
+    "community_hub_visible": "1",
+    "controllertagwizard": "1",
+    "exfgls": "8",
+    "gameid": "5019800",
+    "genres": {
+      "0": "1",
+      "1": "23",
+      "2": "3"
+    },
+    "header_image": {
+      "english": "08a48b81988853219c2f9ef6165c5aa9961ac870/header.jpg"
+    },
+    "icon": "68904c17d82c4210f7477980a38b15e6f8afec92",
+    "library_assets": {
+      "library_capsule": "en",
+      "library_header": "en",
+      "library_hero": "en",
+      "library_hero_blur": "en",
+      "library_logo": "en",
+      "logo_position": {
+        "height_pct": "48.187642897067875",
+        "pinned_position": "BottomLeft",
+        "width_pct": "57.91212505961016"
+      }
+    },
+    "library_assets_full": {
+      "library_capsule": {
+        "image": {
+          "english": "a2339e91fe74a942a2d7bfd0512e4512217f9be7/library_capsule.jpg"
+        },
+        "image2x": {
+          "english": "a2339e91fe74a942a2d7bfd0512e4512217f9be7/library_capsule_2x.jpg"
+        }
+      },
+      "library_header": {
+        "image": {
+          "english": "08a48b81988853219c2f9ef6165c5aa9961ac870/library_header.jpg"
+        },
+        "image2x": {
+          "english": "08a48b81988853219c2f9ef6165c5aa9961ac870/library_header_2x.jpg"
+        }
+      },
+      "library_hero": {
+        "image": {
+          "english": "9bc7e39697dae1fb79e417a2cb2305fea7b4190a/library_hero.jpg"
+        },
+        "image2x": {
+          "english": "9bc7e39697dae1fb79e417a2cb2305fea7b4190a/library_hero_2x.jpg"
+        }
+      },
+      "library_hero_blur": {
+        "image": {
+          "english": "9bc7e39697dae1fb79e417a2cb2305fea7b4190a/library_hero_blur.jpg"
+        }
+      },
+      "library_logo": {
+        "image": {
+          "english": "5bf8f98a4b462e5f96df3e2e257222fc53eb95c7/logo.png"
+        },
+        "image2x": {
+          "english": "5bf8f98a4b462e5f96df3e2e257222fc53eb95c7/logo_2x.png"
+        },
+        "logo_position": {
+          "height_pct": "48.187642897067875",
+          "pinned_position": "BottomLeft",
+          "width_pct": "57.91212505961016"
+        }
+      }
+    },
+    "name": "System Arrival",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "primary_genre": "1",
+    "releasestate": "prerelease",
+    "small_capsule": {
+      "english": "d1b32f6dd532e5d46decde779e1c9d3ca24e1d37/capsule_231x87.jpg"
+    },
+    "store_asset_mtime": "1789241517",
+    "store_tags": {
+      "0": "4231",
+      "1": "7332",
+      "10": "4182",
+      "11": "3942",
+      "12": "122",
+      "13": "19",
+      "14": "3993",
+      "15": "5765",
+      "16": "4252",
+      "17": "4166",
+      "18": "492",
+      "2": "1662",
+      "3": "8945",
+      "4": "3835",
+      "5": "1702",
+      "6": "1659",
+      "7": "4791",
+      "8": "3834",
+      "9": "4236"
+    },
+    "supported_languages": {
+      "english": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "portuguese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "thai": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "Game"
+  },
+  "public_only": "1"
+}

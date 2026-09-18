@@ -1,0 +1,669 @@
+{
+  "_lastChecked": 1789723008,
+  "_history": [
+    {
+      "buildId": "23600505",
+      "branch": "public",
+      "timeUpdated": 1780754529,
+      "firstSeen": 1788625813,
+      "manifests": {
+        "2963801": {
+          "gid": "2415830037738737675",
+          "size": 3891713700,
+          "download": 3350581952
+        }
+      }
+    },
+    {
+      "buildId": "25129544",
+      "branch": "unstable",
+      "timeUpdated": 1788543950,
+      "firstSeen": 1788625813,
+      "manifests": {
+        "2963801": {
+          "gid": "8905110477899372334",
+          "size": 18016085282,
+          "download": 16899333712
+        }
+      }
+    },
+    {
+      "buildId": "25147145",
+      "branch": "unstable",
+      "timeUpdated": 1788655601,
+      "firstSeen": 1788673577,
+      "manifests": {
+        "2963801": {
+          "gid": "1392861549665710674",
+          "size": 18016291958,
+          "download": 16893577008
+        }
+      }
+    },
+    {
+      "buildId": "25171451",
+      "branch": "unstable",
+      "timeUpdated": 1788805142,
+      "firstSeen": 1788806568,
+      "manifests": {
+        "2963801": {
+          "gid": "4143088539692555188",
+          "size": 18016409382,
+          "download": 16898255440
+        }
+      }
+    },
+    {
+      "buildId": "25175607",
+      "branch": "unstable",
+      "timeUpdated": 1788818888,
+      "firstSeen": 1788821475,
+      "manifests": {
+        "2963801": {
+          "gid": "2775858878359080929",
+          "size": 18016392998,
+          "download": 16898754208
+        }
+      }
+    },
+    {
+      "buildId": "25192065",
+      "branch": "unstable",
+      "timeUpdated": 1788887586,
+      "firstSeen": 1788890035,
+      "manifests": {
+        "2963801": {
+          "gid": "4361121300829899448",
+          "size": 18016436348,
+          "download": 16900833952
+        }
+      }
+    },
+    {
+      "buildId": "25213008",
+      "branch": "unstable",
+      "timeUpdated": 1788972058,
+      "firstSeen": 1788972752,
+      "manifests": {
+        "2963801": {
+          "gid": "4921409457258033177",
+          "size": 18051670173,
+          "download": 16927478656
+        }
+      }
+    },
+    {
+      "buildId": "25238655",
+      "branch": "unstable",
+      "timeUpdated": 1789069206,
+      "firstSeen": 1789073804,
+      "manifests": {
+        "2963801": {
+          "gid": "6914544002068367124",
+          "size": 18059913663,
+          "download": 16937054672
+        }
+      }
+    },
+    {
+      "buildId": "25265822",
+      "branch": "unstable",
+      "timeUpdated": 1789179356,
+      "firstSeen": 1789181896,
+      "manifests": {
+        "2963801": {
+          "gid": "4589804086048414270",
+          "size": 18110174384,
+          "download": 16967870992
+        }
+      }
+    },
+    {
+      "buildId": "25286628",
+      "branch": "unstable",
+      "timeUpdated": 1789325686,
+      "firstSeen": 1789329114,
+      "manifests": {
+        "2963801": {
+          "gid": "2674531531047512353",
+          "size": 18110186672,
+          "download": 16967604480
+        }
+      }
+    },
+    {
+      "buildId": "25307238",
+      "branch": "unstable",
+      "timeUpdated": 1789414310,
+      "firstSeen": 1789421927,
+      "manifests": {
+        "2963801": {
+          "gid": "8453537877526017024",
+          "size": 18110379296,
+          "download": 16967464144
+        }
+      }
+    },
+    {
+      "buildId": "25313283",
+      "branch": "unstable",
+      "timeUpdated": 1789438424,
+      "firstSeen": 1789443561,
+      "manifests": {
+        "2963801": {
+          "gid": "5929972981997483592",
+          "size": 18110676348,
+          "download": 16968199520
+        }
+      }
+    },
+    {
+      "buildId": "25323759",
+      "branch": "unstable",
+      "timeUpdated": 1789478959,
+      "firstSeen": 1789483975,
+      "manifests": {
+        "2963801": {
+          "gid": "655861324548446191",
+          "size": 18110692732,
+          "download": 16968372560
+        }
+      }
+    },
+    {
+      "buildId": "25332863",
+      "branch": "unstable",
+      "timeUpdated": 1789508030,
+      "firstSeen": 1789512654,
+      "manifests": {
+        "2963801": {
+          "gid": "6154823540132307379",
+          "size": 18110664060,
+          "download": 16967556992
+        }
+      }
+    },
+    {
+      "buildId": "25336457",
+      "branch": "unstable",
+      "timeUpdated": 1789523263,
+      "firstSeen": 1789528703,
+      "manifests": {
+        "2963801": {
+          "gid": "5687880935008736688",
+          "size": 18110657916,
+          "download": 16967764864
+        }
+      }
+    },
+    {
+      "buildId": "25349930",
+      "branch": "unstable",
+      "timeUpdated": 1789580340,
+      "firstSeen": 1789580454,
+      "manifests": {
+        "2963801": {
+          "gid": "607468301867459181",
+          "size": 19365285745,
+          "download": 17930582080
+        }
+      }
+    },
+    {
+      "buildId": "25353313",
+      "branch": "unstable",
+      "timeUpdated": 1789585278,
+      "firstSeen": 1789587281,
+      "manifests": {
+        "2963801": {
+          "gid": "294142536775509167",
+          "size": 18691163253,
+          "download": 17137794384
+        }
+      }
+    },
+    {
+      "buildId": "25375922",
+      "branch": "unstable",
+      "timeUpdated": 1789672542,
+      "firstSeen": 1789673719,
+      "manifests": {
+        "2963801": {
+          "gid": "67484103597274625",
+          "size": 18689756125,
+          "download": 17131853872
+        }
+      }
+    },
+    {
+      "buildId": "25377444",
+      "branch": "unstable",
+      "timeUpdated": 1789678551,
+      "firstSeen": 1789685663,
+      "manifests": {
+        "2963801": {
+          "gid": "9043710459350139517",
+          "size": 18689738713,
+          "download": 17136432176
+        }
+      }
+    },
+    {
+      "buildId": "25380497",
+      "branch": "unstable",
+      "timeUpdated": 1789692282,
+      "firstSeen": 1789693031,
+      "manifests": {
+        "2963801": {
+          "gid": "193139889679785697",
+          "size": 18689738713,
+          "download": 17137128656
+        }
+      }
+    }
+  ],
+  "_change_number": 38979661,
+  "_missing_token": false,
+  "_sha": "1d1e2936cb5a8bf231ba71d4df0454be50cb1d1b",
+  "_size": 9666,
+  "appid": "2963800",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "CodePeas",
+        "type": "developer"
+      },
+      "1": {
+        "name": "CodePeas",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "cozyandcleaning",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_25": "1",
+      "category_28": "1",
+      "category_45": "1",
+      "category_46": "1",
+      "category_62": "1",
+      "category_66": "1",
+      "category_68": "1",
+      "category_69": "1",
+      "category_70": "1",
+      "category_74": "1",
+      "category_79": "1"
+    },
+    "clienticon": "30c04b9ec9ab59cdf6771e9a48c1a4d892cfe629",
+    "clienttga": "22f6b3de88f53cdc5c67e6a14b6290046b97e157",
+    "community_hub_visible": "1",
+    "community_visible_stats": "1",
+    "controller_support": "full",
+    "controllertagwizard": "1",
+    "eulas": {
+      "0": {
+        "id": "2963800_eula_0",
+        "name": "DrainSim EULA",
+        "url": "https://store.steampowered.com//eula/2963800_eula_0",
+        "version": "7"
+      }
+    },
+    "gameid": "2963800",
+    "genres": {
+      "0": "4",
+      "1": "23",
+      "2": "28",
+      "3": "70"
+    },
+    "header_image": {
+      "english": "ebb4b50a07f7910524ac84a31f2e298f2595ddee/header.jpg"
+    },
+    "icon": "30c04b9ec9ab59cdf6771e9a48c1a4d892cfe629",
+    "library_assets": {
+      "library_capsule": "en",
+      "library_header": "en",
+      "library_hero": "en",
+      "library_hero_blur": "en",
+      "library_logo": "en",
+      "logo_position": {
+        "height_pct": "100",
+        "pinned_position": "CenterCenter",
+        "width_pct": "100"
+      }
+    },
+    "library_assets_full": {
+      "library_capsule": {
+        "image": {
+          "english": "ae03587a7923c96dcb8184eb9e3376afcc5c1c3f/library_capsule.jpg"
+        },
+        "image2x": {
+          "english": "ae03587a7923c96dcb8184eb9e3376afcc5c1c3f/library_capsule_2x.jpg"
+        }
+      },
+      "library_header": {
+        "image": {
+          "english": "ebb4b50a07f7910524ac84a31f2e298f2595ddee/library_header.jpg"
+        },
+        "image2x": {
+          "english": "ebb4b50a07f7910524ac84a31f2e298f2595ddee/library_header_2x.jpg"
+        }
+      },
+      "library_hero": {
+        "image": {
+          "english": "045988af78669da39de390e3c075d352989b4653/library_hero.jpg"
+        },
+        "image2x": {
+          "english": "045988af78669da39de390e3c075d352989b4653/library_hero_2x.jpg"
+        }
+      },
+      "library_hero_blur": {
+        "image": {
+          "english": "045988af78669da39de390e3c075d352989b4653/library_hero_blur.jpg"
+        }
+      },
+      "library_logo": {
+        "image": {
+          "english": "logo.png"
+        },
+        "image2x": {
+          "english": "logo_2x.png"
+        },
+        "logo_position": {
+          "height_pct": "100",
+          "pinned_position": "CenterCenter",
+          "width_pct": "100"
+        }
+      }
+    },
+    "name": "DrainSim",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "primary_genre": "28",
+    "releasestate": "released",
+    "review_percentage": "91",
+    "review_score": "8",
+    "small_capsule": {
+      "english": "ee1cd134b988de72ee53720389a137e136fef062/capsule_231x87.jpg"
+    },
+    "steam_deck_compatibility": {
+      "category": "1",
+      "configuration": {
+        "gamescope_frame_limiter_not_supported": "0",
+        "hdr_support": "0",
+        "non_deck_display_glyphs": "0",
+        "primary_player_is_controller_slot_0": "1",
+        "recommended_runtime": "proton-stable",
+        "requires_h264": "0",
+        "requires_internet_for_setup": "0",
+        "requires_internet_for_singleplayer": "0",
+        "requires_manual_keyboard_invoke": "0",
+        "requires_non_controller_launcher_nav": "0",
+        "requires_proton_soundfonts": "0",
+        "requires_voice_files": "0",
+        "small_text": "0",
+        "supported_input": "other"
+      },
+      "steam_machine_compatibility": "3",
+      "steam_machine_tests": {
+        "0": {
+          "display": "4",
+          "token": "#SteamMachine_TestResult_DefaultControllerConfigFullyFunctional"
+        },
+        "1": {
+          "display": "4",
+          "token": "#SteamMachine_TestResult_ControllerGlyphsMatchDevice"
+        },
+        "2": {
+          "display": "4",
+          "token": "#SteamMachine_TestResult_DefaultConfigurationIsPerformant"
+        }
+      },
+      "steamos_compatibility": "2",
+      "steamos_tests": {
+        "0": {
+          "display": "3",
+          "token": "#SteamOS_TestResult_GameStartupFunctional"
+        },
+        "1": {
+          "display": "1",
+          "token": "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+        }
+      },
+      "test_timestamp": "1788371103",
+      "tested_build_id": "23600505",
+      "tests": {
+        "0": {
+          "display": "2",
+          "token": "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+        }
+      }
+    },
+    "steam_release_date": "1772560876",
+    "store_asset_mtime": "1780513327",
+    "store_tags": {
+      "0": "599",
+      "1": "597",
+      "10": "4182",
+      "11": "7250",
+      "12": "30358",
+      "13": "4166",
+      "14": "4136",
+      "15": "4305",
+      "16": "97376",
+      "17": "1742",
+      "18": "552282",
+      "19": "1664",
+      "2": "1654",
+      "3": "3839",
+      "4": "3810",
+      "5": "3968",
+      "6": "4175",
+      "7": "4191",
+      "8": "9157",
+      "9": "9204"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "czech": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "dutch": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "hungarian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "swedish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "ukrainian": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "Game",
+    "workshop_visible": "1"
+  },
+  "config": {
+    "installdir": "DrainSim",
+    "launch": {
+      "0": {
+        "arguments": "-d3d12",
+        "config": {
+          "osarch": "64",
+          "oslist": "windows"
+        },
+        "description": "DX12 - Default",
+        "description_loc": {
+          "brazilian": "DX12 - Padrão",
+          "czech": "DX12 - Výchozí",
+          "dutch": "DX12 - Standaard",
+          "english": "DX12 - Default",
+          "french": "DX12 - Par défaut",
+          "german": "DX12 - Standard",
+          "hungarian": "DX12 - Alapértelmezett",
+          "japanese": "DX12 - デフォルト",
+          "polish": "DX12 - Domyślny",
+          "russian": "DX12 - По умолчанию",
+          "spanish": "DX12 - Predeterminado",
+          "ukrainian": "DX12 - За замовчуванням"
+        },
+        "executable": "DrainSim.exe",
+        "type": "option1"
+      },
+      "1": {
+        "arguments": "-d3d11",
+        "config": {
+          "osarch": "64",
+          "oslist": "windows"
+        },
+        "description": "DX11 - Old GPU - expect BUGS/ugly visuals",
+        "description_loc": {
+          "brazilian": "DX11 - GPU antiga - espere BUGS/visuais feios!",
+          "czech": "DX11 - stará GPU - očekávej BUGY/ošklivé vizuály!",
+          "dutch": "DX11 - Oude GPU - verwacht BUGS/lelijke visuals!",
+          "english": "DX11 - Old GPU - expect BUGS/ugly visuals",
+          "french": "DX11 - GPU ancienne - attendez-vous à des BUGS/visuels laids",
+          "german": "DX11 - Alte GPU - erwarte BUGS/hässliche Darstellung!",
+          "hungarian": "DX11 - Régi GPU - számíts BUGokra/csúnya látványra!",
+          "japanese": "DX11 - 古いGPU - バグや見た目の悪さに注意！",
+          "polish": "DX11 - Stara karta GPU - spodziewaj się BUGÓW/brzydkiej grafiki!",
+          "russian": "DX11 - Старая GPU - ожидайте БАГИ/плохую графику!",
+          "spanish": "DX11 - GPU antigua - espera BUGS/visuales feos!",
+          "ukrainian": "DX11 - Стара GPU - очікуйте БАГИ/погану графіку!"
+        },
+        "executable": "DrainSim.exe",
+        "type": "option1"
+      }
+    }
+  },
+  "depots": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980",
+      "sharedinstall": "1"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980",
+      "sharedinstall": "1"
+    },
+    "2963801": {
+      "config": {
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "3350581952",
+          "gid": "2415830037738737675",
+          "size": "3891713700"
+        },
+        "unstable": {
+          "download": "17137128656",
+          "gid": "193139889679785697",
+          "size": "18689738713"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "23600505",
+        "timebuildupdated": "1780751713",
+        "timeupdated": "1780754529"
+      },
+      "unstable": {
+        "buildid": "25380497",
+        "description": "unstable branch for testing, might be buggy",
+        "timebuildupdated": "1789691616",
+        "timeupdated": "1789692282"
+      }
+    },
+    "privatebranches": "1",
+    "workshopdepot": "2963800"
+  },
+  "extended": {
+    "developer": "CodePeas",
+    "homepage": "https://drainsim.com/",
+    "publisher": "CodePeas"
+  },
+  "ufs": {
+    "maxnumfiles": "400",
+    "quota": "1000000000",
+    "rootoverrides": {
+      "0": {
+        "os": "Linux",
+        "oscompare": "=",
+        "pathtransforms": {
+          "0": {
+            "find": "DrainSim/Saved/SaveGames",
+            "replace": ".local/share/Steam/steamapps/compatdata/2963800/pfx/drive_c/users/steamuser/AppData/Local/DrainSim/Saved/SaveGames/"
+          }
+        },
+        "root": "WinAppDataLocal",
+        "useinstead": "LinuxHome"
+      }
+    },
+    "savefiles": {
+      "0": {
+        "path": "DrainSim/Saved/SaveGames",
+        "pattern": "*.sav",
+        "root": "WinAppDataLocal"
+      },
+      "1": {
+        "path": "DrainSim/Saved/SaveGames",
+        "pattern": "*.exr",
+        "root": "WinAppDataLocal"
+      }
+    }
+  }
+}

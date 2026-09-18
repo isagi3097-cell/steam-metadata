@@ -1,0 +1,472 @@
+{
+  "_lastChecked": 1789725192,
+  "_history": [
+    {
+      "buildId": "25108974",
+      "branch": "public",
+      "timeUpdated": 1788463888,
+      "firstSeen": 1788632604,
+      "manifests": {
+        "4983492": {
+          "gid": "6748339193221275315",
+          "size": 223829760,
+          "download": 142605856
+        },
+        "4983493": {
+          "gid": "6771230895859382383",
+          "size": 191540180,
+          "download": 134384000
+        }
+      }
+    },
+    {
+      "buildId": "25144237",
+      "branch": "public",
+      "timeUpdated": 1788634108,
+      "firstSeen": 1788675448,
+      "manifests": {
+        "4983492": {
+          "gid": "7616542419572192451",
+          "size": 223882232,
+          "download": 142646944
+        },
+        "4983493": {
+          "gid": "6479646509626440129",
+          "size": 191592648,
+          "download": 134427472
+        }
+      }
+    },
+    {
+      "buildId": "25157323",
+      "branch": "public",
+      "timeUpdated": 1788732159,
+      "firstSeen": 1788734723,
+      "manifests": {
+        "4983492": {
+          "gid": "403502308463088432",
+          "size": 223901640,
+          "download": 142661552
+        },
+        "4983493": {
+          "gid": "2557107836539656909",
+          "size": 191612060,
+          "download": 134441584
+        }
+      }
+    },
+    {
+      "buildId": "25170669",
+      "branch": "public",
+      "timeUpdated": 1788797118,
+      "firstSeen": 1788808993,
+      "manifests": {
+        "4983492": {
+          "gid": "1643351509633079371",
+          "size": 223916064,
+          "download": 142676496
+        },
+        "4983493": {
+          "gid": "2297847135121426502",
+          "size": 191626480,
+          "download": 134455808
+        }
+      }
+    },
+    {
+      "buildId": "25191226",
+      "branch": "public",
+      "timeUpdated": 1788884501,
+      "firstSeen": 1788886396,
+      "manifests": {
+        "4983492": {
+          "gid": "4916153859365119593",
+          "size": 229175648,
+          "download": 145700160
+        },
+        "4983493": {
+          "gid": "4724993787293465776",
+          "size": 196886068,
+          "download": 137485552
+        }
+      }
+    },
+    {
+      "buildId": "25240087",
+      "branch": "public",
+      "timeUpdated": 1789074655,
+      "firstSeen": 1789075692,
+      "manifests": {
+        "4983492": {
+          "gid": "876165594945845813",
+          "size": 229704144,
+          "download": 146122640
+        },
+        "4983493": {
+          "gid": "279953671957451049",
+          "size": 197414560,
+          "download": 137905488
+        }
+      }
+    },
+    {
+      "buildId": "25287816",
+      "branch": "public",
+      "timeUpdated": 1789332653,
+      "firstSeen": 1789337951,
+      "manifests": {
+        "4983492": {
+          "gid": "4366013373524872620",
+          "size": 229928784,
+          "download": 146308544
+        },
+        "4983493": {
+          "gid": "5259300317321535002",
+          "size": 197639200,
+          "download": 138091280
+        }
+      }
+    },
+    {
+      "buildId": "25303283",
+      "branch": "public",
+      "timeUpdated": 1789400030,
+      "firstSeen": 1789406062,
+      "manifests": {
+        "4983492": {
+          "gid": "8720343452179772067",
+          "size": 229986544,
+          "download": 146348768
+        },
+        "4983493": {
+          "gid": "7874587109312048640",
+          "size": 197696964,
+          "download": 138129072
+        }
+      }
+    },
+    {
+      "buildId": "25333393",
+      "branch": "public",
+      "timeUpdated": 1789511007,
+      "firstSeen": 1789514525,
+      "manifests": {
+        "4983492": {
+          "gid": "3540887082651433322",
+          "size": 230028104,
+          "download": 146387616
+        },
+        "4983493": {
+          "gid": "4934715082227945510",
+          "size": 197738520,
+          "download": 138155328
+        }
+      }
+    },
+    {
+      "buildId": "25379261",
+      "branch": "public",
+      "timeUpdated": 1789685926,
+      "firstSeen": 1789687669,
+      "manifests": {
+        "4983492": {
+          "gid": "8825496471718733660",
+          "size": 230241304,
+          "download": 146549760
+        },
+        "4983493": {
+          "gid": "6831289960325240223",
+          "size": 197951724,
+          "download": 138322992
+        }
+      }
+    }
+  ],
+  "_change_number": 38977934,
+  "_missing_token": false,
+  "_sha": "aaedcd8a932aa701743e30e2ac2fb7310f30196c",
+  "_size": 6018,
+  "appid": "4983490",
+  "common": {
+    "aicontenttype": "1",
+    "associations": {
+      "0": {
+        "name": "Mads",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Mads",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_24": "1",
+      "category_27": "1",
+      "category_28": "1",
+      "category_36": "1",
+      "category_37": "1",
+      "category_38": "1",
+      "category_41": "1",
+      "category_42": "1",
+      "category_43": "1",
+      "category_44": "1",
+      "category_49": "1",
+      "category_55": "1",
+      "category_56": "1",
+      "category_57": "1",
+      "category_58": "1",
+      "category_62": "1",
+      "category_66": "1",
+      "category_68": "1",
+      "category_74": "1",
+      "category_75": "1",
+      "category_76": "1",
+      "category_77": "1",
+      "category_78": "1",
+      "category_80": "1",
+      "category_9": "1"
+    },
+    "clienticon": "baa0ca2717ccb90ef57919f171d884c3bde18915",
+    "community_hub_visible": "1",
+    "community_visible_stats": "1",
+    "controller_support": "full",
+    "controllertagwizard": "1",
+    "gameid": "4983490",
+    "genres": {
+      "0": "23",
+      "1": "2",
+      "2": "37",
+      "3": "70"
+    },
+    "header_image": {
+      "english": "2171750b5ae85c27e16f9939e4fc8fc68e25e5be/header.jpg"
+    },
+    "icon": "baa0ca2717ccb90ef57919f171d884c3bde18915",
+    "languages": {
+      "brazilian": "1",
+      "english": "1",
+      "french": "1",
+      "german": "1",
+      "italian": "1",
+      "japanese": "1",
+      "russian": "1",
+      "schinese": "1",
+      "spanish": "1",
+      "tchinese": "1"
+    },
+    "library_assets": {
+      "library_capsule": "en",
+      "library_header": "en",
+      "library_hero": "en",
+      "library_hero_blur": "en",
+      "library_logo": "en",
+      "logo_position": {
+        "height_pct": "81.00213725955828",
+        "pinned_position": "UpperCenter",
+        "width_pct": "55.93713620488943"
+      }
+    },
+    "library_assets_full": {
+      "library_capsule": {
+        "image": {
+          "english": "50dfab754524cf5b86eaa0f36eb588d15de82cfc/library_capsule.jpg"
+        },
+        "image2x": {
+          "english": "50dfab754524cf5b86eaa0f36eb588d15de82cfc/library_capsule_2x.jpg"
+        }
+      },
+      "library_header": {
+        "image": {
+          "english": "2171750b5ae85c27e16f9939e4fc8fc68e25e5be/library_header.jpg"
+        },
+        "image2x": {
+          "english": "2171750b5ae85c27e16f9939e4fc8fc68e25e5be/library_header_2x.jpg"
+        }
+      },
+      "library_hero": {
+        "image": {
+          "english": "17e88c8a1dbe71b7370ef56f7c285ced5fee4f51/library_hero.jpg"
+        },
+        "image2x": {
+          "english": "17e88c8a1dbe71b7370ef56f7c285ced5fee4f51/library_hero_2x.jpg"
+        }
+      },
+      "library_hero_blur": {
+        "image": {
+          "english": "17e88c8a1dbe71b7370ef56f7c285ced5fee4f51/library_hero_blur.jpg"
+        }
+      },
+      "library_logo": {
+        "image": {
+          "english": "84b2da62e42697839f45b7b6ab15610303561410/logo.png"
+        },
+        "image2x": {
+          "english": "84b2da62e42697839f45b7b6ab15610303561410/logo_2x.png"
+        },
+        "logo_position": {
+          "height_pct": "81.00213725955828",
+          "pinned_position": "UpperCenter",
+          "width_pct": "55.93713620488943"
+        }
+      }
+    },
+    "name": "Last Gambit",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows,linux",
+    "primary_genre": "2",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "6e8bdf0826d33fd980b81fd1ef6c64815a51868b/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1787834769",
+    "store_asset_mtime": "1788634305",
+    "store_tags": {
+      "0": "14139",
+      "1": "4184",
+      "10": "4172",
+      "11": "6730",
+      "12": "3859",
+      "13": "4182",
+      "14": "17389",
+      "15": "3843",
+      "16": "7368",
+      "17": "1684",
+      "18": "7569",
+      "19": "5125",
+      "2": "1716",
+      "3": "1741",
+      "4": "1775",
+      "5": "3959",
+      "6": "9",
+      "7": "1770",
+      "8": "3871",
+      "9": "4325"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "Game"
+  },
+  "config": {
+    "installdir": "Last Gambit",
+    "launch": {
+      "0": {
+        "config": {
+          "osarch": "64",
+          "oslist": "windows"
+        },
+        "description": "Play Last Gambit",
+        "description_loc": {
+          "english": "Play Last Gambit",
+          "italian": "Gioca a Last Gambit"
+        },
+        "executable": "last-gambit.exe"
+      },
+      "1": {
+        "config": {
+          "osarch": "64",
+          "oslist": "linux"
+        },
+        "description": "Play Last Gambit",
+        "description_loc": {
+          "english": "Play Last Gambit"
+        },
+        "executable": "last-gambit.x86_64"
+      }
+    },
+    "steamconfigurator3rdpartynative": "65533",
+    "steamcontrollertemplateindex": "4",
+    "steamcontrollertouchtemplateindex": "8",
+    "steamdecktouchscreen": "1"
+  },
+  "depots": {
+    "4983492": {
+      "config": {
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "146549760",
+          "gid": "8825496471718733660",
+          "size": "230241304"
+        }
+      }
+    },
+    "4983493": {
+      "config": {
+        "osarch": "64",
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "download": "138322992",
+          "gid": "6831289960325240223",
+          "size": "197951724"
+        }
+      }
+    },
+    "baselanguages": "english,french,italian,spanish",
+    "branches": {
+      "public": {
+        "buildid": "25379261",
+        "timebuildupdated": "1789685798",
+        "timeupdated": "1789685926"
+      }
+    }
+  },
+  "extended": {
+    "absolutemousecoordinates": "1",
+    "developer": "Mads",
+    "homepage": "https://last-gambit.com/",
+    "isfreeapp": "1",
+    "publisher": "Mads"
+  },
+  "ufs": {
+    "maxnumfiles": "10",
+    "quota": "100000000"
+  }
+}

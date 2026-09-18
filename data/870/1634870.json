@@ -1,0 +1,958 @@
+{
+  "_lastChecked": 1789721382,
+  "_history": [
+    {
+      "buildId": "25059542",
+      "branch": "beta",
+      "timeUpdated": 1788271497,
+      "firstSeen": 1788621011,
+      "manifests": {
+        "1634871": {
+          "gid": "4728512062751077207",
+          "size": 793827745,
+          "download": 221856704
+        },
+        "1634872": {
+          "gid": "6119011297791715140",
+          "size": 820140225,
+          "download": 232164160
+        },
+        "1634873": {
+          "gid": "1610030885010484933",
+          "size": 749032443,
+          "download": 222968480
+        },
+        "1634874": {
+          "gid": "4894465119694847684",
+          "size": 243273856,
+          "download": 231924528
+        }
+      }
+    },
+    {
+      "buildId": "24373673",
+      "branch": "previous",
+      "timeUpdated": 1784895805,
+      "firstSeen": 1788621011,
+      "manifests": {
+        "1634871": {
+          "gid": "836803900375550927",
+          "size": 829602166,
+          "download": 232810720
+        },
+        "1634872": {
+          "gid": "1234092715392238494",
+          "size": 855798534,
+          "download": 243282704
+        },
+        "1634873": {
+          "gid": "2331899200159492916",
+          "size": 784733064,
+          "download": 234078368
+        },
+        "1634874": {
+          "gid": "7346503095022725734",
+          "size": 242324841,
+          "download": 230991008
+        }
+      }
+    },
+    {
+      "buildId": "24990501",
+      "branch": "public",
+      "timeUpdated": 1787914841,
+      "firstSeen": 1788621011,
+      "manifests": {
+        "1634871": {
+          "gid": "1703225645110147806",
+          "size": 793819033,
+          "download": 221855904
+        },
+        "1634872": {
+          "gid": "6932475954359917960",
+          "size": 820131513,
+          "download": 232161472
+        },
+        "1634873": {
+          "gid": "7328861053753293446",
+          "size": 749023731,
+          "download": 222967264
+        },
+        "1634874": {
+          "gid": "587367014898740310",
+          "size": 243277136,
+          "download": 231902096
+        }
+      }
+    },
+    {
+      "buildId": "24990501",
+      "branch": "steamframe",
+      "timeUpdated": 1787914841,
+      "firstSeen": 1788621011,
+      "manifests": {
+        "1634871": {
+          "gid": "1703225645110147806",
+          "size": 793819033,
+          "download": 221855904
+        },
+        "1634872": {
+          "gid": "6932475954359917960",
+          "size": 820131513,
+          "download": 232161472
+        },
+        "1634873": {
+          "gid": "7328861053753293446",
+          "size": 749023731,
+          "download": 222967264
+        },
+        "1634874": {
+          "gid": "587367014898740310",
+          "size": 243277136,
+          "download": 231902096
+        }
+      }
+    },
+    {
+      "buildId": "25175509",
+      "branch": "beta",
+      "timeUpdated": 1788818233,
+      "firstSeen": 1788819573,
+      "manifests": {
+        "1634871": {
+          "gid": "1004030870076658099",
+          "size": 1044627824,
+          "download": 314716288
+        },
+        "1634872": {
+          "gid": "3421904121776340950",
+          "size": 1001017240,
+          "download": 301210912
+        },
+        "1634873": {
+          "gid": "951233176516092818",
+          "size": 953167895,
+          "download": 291352320
+        },
+        "1634874": {
+          "gid": "2702072247994691867",
+          "size": 284384259,
+          "download": 270366176
+        }
+      }
+    },
+    {
+      "buildId": "25194494",
+      "branch": "beta",
+      "timeUpdated": 1788897165,
+      "firstSeen": 1788899549,
+      "manifests": {
+        "1634871": {
+          "gid": "933547579838596622",
+          "size": 1044627824,
+          "download": 314712864
+        },
+        "1634872": {
+          "gid": "811187696838341455",
+          "size": 1001017240,
+          "download": 301203152
+        },
+        "1634873": {
+          "gid": "3972375040546415992",
+          "size": 953167895,
+          "download": 291355136
+        },
+        "1634874": {
+          "gid": "2740180289455611259",
+          "size": 284384263,
+          "download": 270309824
+        }
+      }
+    },
+    {
+      "buildId": "25197483",
+      "branch": "beta",
+      "timeUpdated": 1788910011,
+      "firstSeen": 1788912033,
+      "manifests": {
+        "1634871": {
+          "gid": "6814641985879239081",
+          "size": 1044582865,
+          "download": 314715152
+        },
+        "1634872": {
+          "gid": "7351009801365500686",
+          "size": 1000971513,
+          "download": 301225072
+        },
+        "1634873": {
+          "gid": "6196849453148765268",
+          "size": 953120840,
+          "download": 291368000
+        },
+        "1634874": {
+          "gid": "331928816296783598",
+          "size": 284391881,
+          "download": 270394048
+        }
+      }
+    },
+    {
+      "buildId": "25205151",
+      "branch": "beta",
+      "timeUpdated": 1788945734,
+      "firstSeen": 1788947114,
+      "manifests": {
+        "1634871": {
+          "gid": "2275473667193300746",
+          "size": 1044582865,
+          "download": 314715136
+        },
+        "1634872": {
+          "gid": "1554719258840872111",
+          "size": 1000974609,
+          "download": 301287520
+        },
+        "1634873": {
+          "gid": "2020140402224965201",
+          "size": 953120840,
+          "download": 291367984
+        },
+        "1634874": {
+          "gid": "3637525139393666585",
+          "size": 284391885,
+          "download": 270393136
+        }
+      }
+    },
+    {
+      "buildId": "25231870",
+      "branch": "beta",
+      "timeUpdated": 1789046691,
+      "firstSeen": 1789051619,
+      "manifests": {
+        "1634871": {
+          "gid": "2550986588450223996",
+          "size": 1049979121,
+          "download": 317637584
+        },
+        "1634872": {
+          "gid": "5155840215640860066",
+          "size": 1011829361,
+          "download": 306723648
+        },
+        "1634873": {
+          "gid": "4745738128050481996",
+          "size": 983747432,
+          "download": 308367136
+        },
+        "1634874": {
+          "gid": "3423607914297540968",
+          "size": 316565880,
+          "download": 302622416
+        }
+      }
+    },
+    {
+      "buildId": "25252629",
+      "branch": "beta",
+      "timeUpdated": 1789127587,
+      "firstSeen": 1789131005,
+      "manifests": {
+        "1634871": {
+          "gid": "2010323437172980724",
+          "size": 1049972233,
+          "download": 317639664
+        },
+        "1634872": {
+          "gid": "1855990470390147820",
+          "size": 1011821705,
+          "download": 306719824
+        },
+        "1634873": {
+          "gid": "842915350361074780",
+          "size": 983738448,
+          "download": 308373024
+        },
+        "1634874": {
+          "gid": "1583624871602858426",
+          "size": 316571878,
+          "download": 302656976
+        }
+      }
+    },
+    {
+      "buildId": "25254114",
+      "branch": "beta",
+      "timeUpdated": 1789132318,
+      "firstSeen": 1789137266,
+      "manifests": {
+        "1634871": {
+          "gid": "5517777406538601756",
+          "size": 1049973257,
+          "download": 317639936
+        },
+        "1634872": {
+          "gid": "2129934016446009304",
+          "size": 1011822729,
+          "download": 306718096
+        },
+        "1634873": {
+          "gid": "3858234017654384937",
+          "size": 983739984,
+          "download": 308373376
+        },
+        "1634874": {
+          "gid": "4417153190165659284",
+          "size": 316571490,
+          "download": 302618192
+        }
+      }
+    },
+    {
+      "buildId": "25258642",
+      "branch": "beta",
+      "timeUpdated": 1789146780,
+      "firstSeen": 1789151926,
+      "manifests": {
+        "1634871": {
+          "gid": "1828676894452288916",
+          "size": 1052090361,
+          "download": 319731312
+        },
+        "1634872": {
+          "gid": "2398779692887284439",
+          "size": 1013939833,
+          "download": 308898496
+        },
+        "1634873": {
+          "gid": "6839249259882048883",
+          "size": 985857072,
+          "download": 310481984
+        },
+        "1634874": {
+          "gid": "4366562027824695109",
+          "size": 318669424,
+          "download": 304771152
+        }
+      }
+    },
+    {
+      "buildId": "25260564",
+      "branch": "beta",
+      "timeUpdated": 1789154042,
+      "firstSeen": 1789159376,
+      "manifests": {
+        "1634871": {
+          "gid": "6855481820578075245",
+          "size": 1052109097,
+          "download": 319736112
+        },
+        "1634872": {
+          "gid": "3036915663039756630",
+          "size": 1013958570,
+          "download": 308904784
+        },
+        "1634873": {
+          "gid": "291231958437384430",
+          "size": 985875824,
+          "download": 310507488
+        },
+        "1634874": {
+          "gid": "2312864526085506802",
+          "size": 318679774,
+          "download": 304648448
+        }
+      }
+    },
+    {
+      "buildId": "25274772",
+      "branch": "beta",
+      "timeUpdated": 1789240783,
+      "firstSeen": 1789241031,
+      "manifests": {
+        "1634871": {
+          "gid": "2423163034523479256",
+          "size": 1052109609,
+          "download": 319736288
+        },
+        "1634872": {
+          "gid": "7825104936984794697",
+          "size": 1013959082,
+          "download": 308908304
+        },
+        "1634873": {
+          "gid": "1140671200639934515",
+          "size": 985875824,
+          "download": 310507568
+        },
+        "1634874": {
+          "gid": "9134565709215346454",
+          "size": 318680914,
+          "download": 304851056
+        }
+      }
+    },
+    {
+      "buildId": "25283016",
+      "branch": "beta",
+      "timeUpdated": 1789304325,
+      "firstSeen": 1789306018,
+      "manifests": {
+        "1634871": {
+          "gid": "777257785187938548",
+          "size": 1052120745,
+          "download": 319741184
+        },
+        "1634872": {
+          "gid": "5438979834498109557",
+          "size": 1013970234,
+          "download": 308909152
+        },
+        "1634873": {
+          "gid": "2644889837614361967",
+          "size": 985887456,
+          "download": 310495392
+        },
+        "1634874": {
+          "gid": "1994457341918396584",
+          "size": 318696754,
+          "download": 304766736
+        }
+      }
+    },
+    {
+      "buildId": "25284745",
+      "branch": "beta",
+      "timeUpdated": 1789314664,
+      "firstSeen": 1789320658,
+      "manifests": {
+        "1634871": {
+          "gid": "4012484335172429379",
+          "size": 1052126638,
+          "download": 319742480
+        },
+        "1634872": {
+          "gid": "7240121877183929097",
+          "size": 1013976127,
+          "download": 308915488
+        },
+        "1634873": {
+          "gid": "5119057736198182664",
+          "size": 985892837,
+          "download": 310501520
+        },
+        "1634874": {
+          "gid": "9221935306694460020",
+          "size": 318703042,
+          "download": 304835680
+        }
+      }
+    },
+    {
+      "buildId": "25287199",
+      "branch": "beta",
+      "timeUpdated": 1789328572,
+      "firstSeen": 1789334299,
+      "manifests": {
+        "1634871": {
+          "gid": "3947128795116544268",
+          "size": 1052127694,
+          "download": 319743120
+        },
+        "1634872": {
+          "gid": "3712300521699426405",
+          "size": 1013977183,
+          "download": 308914784
+        },
+        "1634873": {
+          "gid": "1813649710823668095",
+          "size": 985893893,
+          "download": 310502128
+        },
+        "1634874": {
+          "gid": "4614073988404590785",
+          "size": 318703618,
+          "download": 304790928
+        }
+      }
+    },
+    {
+      "buildId": "25288567",
+      "branch": "beta",
+      "timeUpdated": 1789335992,
+      "firstSeen": 1789341379,
+      "manifests": {
+        "1634871": {
+          "gid": "7982494899229386899",
+          "size": 1052291306,
+          "download": 319806832
+        },
+        "1634872": {
+          "gid": "1865312082253364407",
+          "size": 1014646961,
+          "download": 309213152
+        },
+        "1634873": {
+          "gid": "8399786307016191870",
+          "size": 986284569,
+          "download": 310689776
+        },
+        "1634874": {
+          "gid": "1334402127758023736",
+          "size": 319135279,
+          "download": 306075280
+        }
+      }
+    },
+    {
+      "buildId": "25297492",
+      "branch": "beta",
+      "timeUpdated": 1789381533,
+      "firstSeen": 1789382275,
+      "manifests": {
+        "1634871": {
+          "gid": "8112413849000341189",
+          "size": 1052291818,
+          "download": 319806912
+        },
+        "1634872": {
+          "gid": "4051859553293558296",
+          "size": 1014646961,
+          "download": 309212464
+        },
+        "1634873": {
+          "gid": "2300435568953377931",
+          "size": 986284569,
+          "download": 310689888
+        },
+        "1634874": {
+          "gid": "1920659155646015716",
+          "size": 319134271,
+          "download": 306103840
+        }
+      }
+    },
+    {
+      "buildId": "25344908",
+      "branch": "beta",
+      "timeUpdated": 1789558895,
+      "firstSeen": 1789565232,
+      "manifests": {
+        "1634871": {
+          "gid": "1794873382332868769",
+          "size": 1052293988,
+          "download": 319807696
+        },
+        "1634872": {
+          "gid": "9023134024229724258",
+          "size": 1014649131,
+          "download": 309212192
+        },
+        "1634873": {
+          "gid": "4149984379148539511",
+          "size": 986286739,
+          "download": 310690624
+        },
+        "1634874": {
+          "gid": "1903434087170079888",
+          "size": 319140787,
+          "download": 306025632
+        }
+      }
+    }
+  ],
+  "_change_number": 38927609,
+  "_missing_token": false,
+  "_sha": "62d03c4b8f5d51b2fa6f9f6cbd2cc1f8552fefe5",
+  "_size": 8207,
+  "appid": "1634870",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Icosa Foundation",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Icosa Foundation",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_27": "1",
+      "category_52": "1",
+      "category_53": "1",
+      "category_62": "1"
+    },
+    "clienticon": "94da44a97f4812b4c5b985e98f98d5cf0db032ac",
+    "clienttga": "4bc18ba8fed44f90f4b11131a570c825c79c3f71",
+    "community_hub_visible": "1",
+    "controllervr": {
+      "oculus": "1",
+      "steamvr": "1"
+    },
+    "gameid": "1634870",
+    "genres": {
+      "0": "4",
+      "1": "37",
+      "2": "51",
+      "3": "53"
+    },
+    "header_image": {
+      "english": "header.jpg"
+    },
+    "icon": "581f7913da2ad18803e9ac96dec31c2a3839782a",
+    "library_assets": {
+      "library_capsule": "en",
+      "library_header": "en",
+      "library_hero": "en",
+      "library_logo": "en",
+      "logo_position": {
+        "height_pct": "100",
+        "pinned_position": "CenterCenter",
+        "width_pct": "64.52742123687281"
+      }
+    },
+    "library_assets_full": {
+      "library_capsule": {
+        "image": {
+          "english": "library_600x900.jpg"
+        },
+        "image2x": {
+          "english": "library_600x900_2x.jpg"
+        }
+      },
+      "library_header": {
+        "image": {
+          "english": "library_header.jpg"
+        }
+      },
+      "library_hero": {
+        "image": {
+          "english": "library_hero.jpg"
+        },
+        "image2x": {
+          "english": "library_hero_2x.jpg"
+        }
+      },
+      "library_logo": {
+        "image": {
+          "english": "logo.png"
+        },
+        "image2x": {
+          "english": "logo_2x.png"
+        },
+        "logo_position": {
+          "height_pct": "100",
+          "pinned_position": "CenterCenter",
+          "width_pct": "64.52742123687281"
+        }
+      }
+    },
+    "logo": "0894ca2001315a1110aee3b12dfe8d183daaec86",
+    "logo_small": "0894ca2001315a1110aee3b12dfe8d183daaec86_thumb",
+    "name": "Open Brush",
+    "openxrsupport": "1",
+    "osarch": "64",
+    "osextended": "macos64,macosapplesilicon",
+    "oslist": "windows,macos,linux,android",
+    "playareavr": {
+      "roomscale": {
+        "360_required": "0",
+        "depth": "1.5",
+        "width": "2"
+      },
+      "seated": "1",
+      "standing": "1"
+    },
+    "primary_genre": "53",
+    "releasestate": "released",
+    "review_percentage": "94",
+    "review_score": "8",
+    "small_capsule": {
+      "english": "capsule_231x87.jpg"
+    },
+    "steam_frame_compatibility": {
+      "category": "1",
+      "configuration": {
+        "fdm_debug": "",
+        "gamescope_frame_limiter_not_supported": "0",
+        "hdr_support": "0",
+        "non_deck_display_glyphs": "0",
+        "primary_player_is_controller_slot_0": "0",
+        "recommended_runtime": "lepton-stable",
+        "requires_h264": "0",
+        "requires_internet_for_setup": "0",
+        "requires_internet_for_singleplayer": "0",
+        "requires_manual_keyboard_invoke": "0",
+        "requires_non_controller_launcher_nav": "0",
+        "requires_proton_soundfonts": "0",
+        "requires_voice_files": "0",
+        "rpo_debug": "",
+        "small_text": "0",
+        "supported_input": "other",
+        "tso_enable": "0"
+      },
+      "test_timestamp": "1787760021",
+      "tested_build_id": "24841772",
+      "tests": {
+        "0": {
+          "display": "2",
+          "token": "#SteamFrame_TestResult_SteamOSDoesNotSupport"
+        }
+      }
+    },
+    "steam_release_date": "1623167520",
+    "store_asset_mtime": "1711376912",
+    "store_tags": {
+      "0": "84",
+      "1": "872",
+      "10": "1714",
+      "11": "1669",
+      "12": "3859",
+      "13": "4182",
+      "14": "4191",
+      "15": "5411",
+      "2": "113",
+      "3": "1654",
+      "4": "597",
+      "5": "21978",
+      "6": "4305",
+      "7": "8013",
+      "8": "97376",
+      "9": "5350"
+    },
+    "supported_languages": {
+      "english": {
+        "supported": "true"
+      },
+      "french": {
+        "supported": "true"
+      },
+      "german": {
+        "supported": "true"
+      },
+      "japanese": {
+        "supported": "true"
+      },
+      "koreana": {
+        "supported": "true"
+      },
+      "schinese": {
+        "supported": "true"
+      },
+      "spanish": {
+        "supported": "true"
+      }
+    },
+    "type": "Game"
+  },
+  "config": {
+    "installdir": "Open Brush",
+    "launch": {
+      "0": {
+        "config": {
+          "osarch": "64",
+          "oslist": "windows"
+        },
+        "executable": "OpenBrush.exe",
+        "type": "openxr"
+      },
+      "2": {
+        "config": {
+          "oslist": "macos"
+        },
+        "executable": "OpenBrush.app"
+      },
+      "3": {
+        "config": {
+          "oslist": "linux"
+        },
+        "executable": "OpenBrush"
+      },
+      "4": {
+        "config": {
+          "oslist": "android"
+        },
+        "executable": "com.Icosa.OpenBrush.apk",
+        "type": "default"
+      },
+      "5": {
+        "arguments": "--ForceViewOnly",
+        "config": {
+          "betakey": "beta,steamframe",
+          "oslist": "windows"
+        },
+        "description": "Launch Open Brush Viewer",
+        "description_loc": {
+          "english": "Launch Open Brush Viewer"
+        },
+        "executable": "OpenBrush.exe"
+      }
+    }
+  },
+  "depots": {
+    "1634871": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "beta": {
+          "download": "319807696",
+          "gid": "1794873382332868769",
+          "size": "1052293988"
+        },
+        "previous": {
+          "download": "232810720",
+          "gid": "836803900375550927",
+          "size": "829602166"
+        },
+        "public": {
+          "download": "221855904",
+          "gid": "1703225645110147806",
+          "size": "793819033"
+        },
+        "steamframe": {
+          "download": "221855904",
+          "gid": "1703225645110147806",
+          "size": "793819033"
+        }
+      }
+    },
+    "1634872": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "beta": {
+          "download": "309212192",
+          "gid": "9023134024229724258",
+          "size": "1014649131"
+        },
+        "previous": {
+          "download": "243282704",
+          "gid": "1234092715392238494",
+          "size": "855798534"
+        },
+        "public": {
+          "download": "232161472",
+          "gid": "6932475954359917960",
+          "size": "820131513"
+        },
+        "steamframe": {
+          "download": "232161472",
+          "gid": "6932475954359917960",
+          "size": "820131513"
+        }
+      }
+    },
+    "1634873": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "beta": {
+          "download": "310690624",
+          "gid": "4149984379148539511",
+          "size": "986286739"
+        },
+        "previous": {
+          "download": "234078368",
+          "gid": "2331899200159492916",
+          "size": "784733064"
+        },
+        "public": {
+          "download": "222967264",
+          "gid": "7328861053753293446",
+          "size": "749023731"
+        },
+        "steamframe": {
+          "download": "222967264",
+          "gid": "7328861053753293446",
+          "size": "749023731"
+        }
+      }
+    },
+    "1634874": {
+      "config": {
+        "oslist": "android"
+      },
+      "manifests": {
+        "beta": {
+          "download": "306025632",
+          "gid": "1903434087170079888",
+          "size": "319140787"
+        },
+        "previous": {
+          "download": "230991008",
+          "gid": "7346503095022725734",
+          "size": "242324841"
+        },
+        "public": {
+          "download": "231902096",
+          "gid": "587367014898740310",
+          "size": "243277136"
+        },
+        "steamframe": {
+          "download": "231902096",
+          "gid": "587367014898740310",
+          "size": "243277136"
+        }
+      }
+    },
+    "228985": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980",
+      "sharedinstall": "1"
+    },
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980",
+      "sharedinstall": "1"
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980",
+      "sharedinstall": "1"
+    },
+    "branches": {
+      "beta": {
+        "buildid": "25344908",
+        "description": "Pre-release build which contains features coming soon, but may also contain bugs!",
+        "timebuildupdated": "1789558895",
+        "timeupdated": "1789558895"
+      },
+      "previous": {
+        "buildid": "24373673",
+        "description": "The previous official release. Use this if you need to check for a regression in the latest official build",
+        "timebuildupdated": "1784895197",
+        "timeupdated": "1784895805"
+      },
+      "public": {
+        "buildid": "24990501",
+        "timebuildupdated": "1787913866",
+        "timeupdated": "1787914841"
+      },
+      "steamframe": {
+        "buildid": "24990501",
+        "description": "Testing native and Windows builds on Steam Frame",
+        "timebuildupdated": "1787913866",
+        "timeupdated": "1787914841"
+      }
+    }
+  },
+  "extended": {
+    "developer": "Icosa Foundation",
+    "homepage": "https://openbrush.app",
+    "publisher": "Icosa Foundation",
+    "vrheadsetstreaming": "0"
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "_lastChecked": 1789723959,
+  "_history": [
+    {
+      "buildId": "24998857",
+      "branch": "public",
+      "timeUpdated": 1787942707,
+      "firstSeen": 1788627934,
+      "manifests": {
+        "3806631": {
+          "gid": "4562478439719745698",
+          "size": 6315398729,
+          "download": 982009936
+        }
+      }
+    },
+    {
+      "buildId": "25150619",
+      "branch": "public",
+      "timeUpdated": 1788687981,
+      "firstSeen": 1788690884,
+      "manifests": {
+        "3806631": {
+          "gid": "474559394483530370",
+          "size": 6315397993,
+          "download": 981707792
+        }
+      }
+    },
+    {
+      "buildId": "25155227",
+      "branch": "public",
+      "timeUpdated": 1788719302,
+      "firstSeen": 1788721338,
+      "manifests": {
+        "3806631": {
+          "gid": "5826096744012427999",
+          "size": 6319496281,
+          "download": 983264832
+        }
+      }
+    },
+    {
+      "buildId": "25168618",
+      "branch": "public",
+      "timeUpdated": 1788789777,
+      "firstSeen": 1788807618,
+      "manifests": {
+        "3806631": {
+          "gid": "2614736541013524435",
+          "size": 6327951289,
+          "download": 983758864
+        }
+      }
+    },
+    {
+      "buildId": "25191402",
+      "branch": "public",
+      "timeUpdated": 1788885129,
+      "firstSeen": 1788890858,
+      "manifests": {
+        "3806631": {
+          "gid": "1097544012828344906",
+          "size": 6327951273,
+          "download": 983749648
+        }
+      }
+    },
+    {
+      "buildId": "25208726",
+      "branch": "public",
+      "timeUpdated": 1788958095,
+      "firstSeen": 1788961003,
+      "manifests": {
+        "3806631": {
+          "gid": "1797282855579062513",
+          "size": 6327951305,
+          "download": 983563456
+        }
+      }
+    },
+    {
+      "buildId": "25214282",
+      "branch": "public",
+      "timeUpdated": 1788975440,
+      "firstSeen": 1788980346,
+      "manifests": {
+        "3806631": {
+          "gid": "1890371360397834349",
+          "size": 6327951177,
+          "download": 983640896
+        }
+      }
+    },
+    {
+      "buildId": "25230069",
+      "branch": "public",
+      "timeUpdated": 1789041165,
+      "firstSeen": 1789046824,
+      "manifests": {
+        "3806631": {
+          "gid": "5936065206537925086",
+          "size": 6327971849,
+          "download": 983758304
+        }
+      }
+    },
+    {
+      "buildId": "25237881",
+      "branch": "public",
+      "timeUpdated": 1789066503,
+      "firstSeen": 1789068398,
+      "manifests": {
+        "3806631": {
+          "gid": "8186487671671288144",
+          "size": 6330009289,
+          "download": 984070528
+        }
+      }
+    },
+    {
+      "buildId": "25251224",
+      "branch": "public",
+      "timeUpdated": 1789123126,
+      "firstSeen": 1789127128,
+      "manifests": {
+        "3806631": {
+          "gid": "1896718151768943213",
+          "size": 6331033577,
+          "download": 984256960
+        }
+      }
+    },
+    {
+      "buildId": "25281488",
+      "branch": "public",
+      "timeUpdated": 1789293708,
+      "firstSeen": 1789301442,
+      "manifests": {
+        "3806631": {
+          "gid": "6991729552347156747",
+          "size": 6331033593,
+          "download": 984301824
+        }
+      }
+    },
+    {
+      "buildId": "25284538",
+      "branch": "public",
+      "timeUpdated": 1789313490,
+      "firstSeen": 1789316172,
+      "manifests": {
+        "3806631": {
+          "gid": "7277083830950707012",
+          "size": 6331033593,
+          "download": 984128992
+        }
+      }
+    },
+    {
+      "buildId": "25298079",
+      "branch": "public",
+      "timeUpdated": 1789383731,
+      "firstSeen": 1789384504,
+      "manifests": {
+        "3806631": {
+          "gid": "4648779100638702594",
+          "size": 6331033161,
+          "download": 984294656
+        }
+      }
+    },
+    {
+      "buildId": "25322173",
+      "branch": "public",
+      "timeUpdated": 1789473972,
+      "firstSeen": 1789477971,
+      "manifests": {
+        "3806631": {
+          "gid": "8111552922216191155",
+          "size": 6331033145,
+          "download": 984148368
+        }
+      }
+    },
+    {
+      "buildId": "25345957",
+      "branch": "public",
+      "timeUpdated": 1789562289,
+      "firstSeen": 1789567605,
+      "manifests": {
+        "3806631": {
+          "gid": "6372636650310748501",
+          "size": 6331033145,
+          "download": 984255728
+        }
+      }
+    },
+    {
+      "buildId": "25354159",
+      "branch": "public",
+      "timeUpdated": 1789588736,
+      "firstSeen": 1789595628,
+      "manifests": {
+        "3806631": {
+          "gid": "7527870300240903280",
+          "size": 6331036329,
+          "download": 984285616
+        }
+      }
+    },
+    {
+      "buildId": "25367640",
+      "branch": "public",
+      "timeUpdated": 1789645471,
+      "firstSeen": 1789647964,
+      "manifests": {
+        "3806631": {
+          "gid": "5790614677874831898",
+          "size": 6331053417,
+          "download": 984196208
+        }
+      }
+    }
+  ],
+  "_change_number": 38960377,
+  "_missing_token": false,
+  "_sha": "27d5e51ce044acb3bb9447c840b4a50e7833f785",
+  "_size": 4343,
+  "appid": "3806630",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Gagurum",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Gagurum",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_62": "1"
+    },
+    "clienticns": "5a13b64c28f841d61750271b4795b69ee0b48ff3",
+    "clienticon": "3eaf340c42cba40271da2357bcaad332395f72ed",
+    "clienttga": "5df8c0be3ef27eb248cc530521aadc6a667dc4c5",
+    "community_hub_visible": "1",
+    "community_visible_stats": "1",
+    "content_descriptors": {
+      "0": "1",
+      "1": "2",
+      "2": "5"
+    },
+    "content_descriptors_including_dlc": {
+      "0": "1",
+      "1": "2",
+      "2": "5"
+    },
+    "controllertagwizard": "1",
+    "gameid": "3806630",
+    "genres": {
+      "0": "23",
+      "1": "3",
+      "2": "2"
+    },
+    "header_image": {
+      "english": "a068a65a55e1d55b1e0fccce6f8822d4ba31071e/header.jpg"
+    },
+    "icon": "1de347ecce5f2e440ecf4012137dde1518ada029",
+    "library_assets": {
+      "library_capsule": "en",
+      "library_header": "en",
+      "library_hero": "en",
+      "library_hero_blur": "en",
+      "library_logo": "en",
+      "logo_position": {
+        "height_pct": "72.7552842830693",
+        "pinned_position": "BottomLeft",
+        "width_pct": "36.40799237230708"
+      }
+    },
+    "library_assets_full": {
+      "library_capsule": {
+        "image": {
+          "english": "1735e3d9649953ae152a58328e174b0eb327703a/library_600x900.jpg"
+        },
+        "image2x": {
+          "english": "1735e3d9649953ae152a58328e174b0eb327703a/library_600x900_2x.jpg"
+        }
+      },
+      "library_header": {
+        "image": {
+          "english": "d7c62419204be6c1eeb7d8bc8df17ec52bb0b9c5/library_header.jpg"
+        },
+        "image2x": {
+          "english": "d7c62419204be6c1eeb7d8bc8df17ec52bb0b9c5/library_header_2x.jpg"
+        }
+      },
+      "library_hero": {
+        "image": {
+          "english": "ed51edc6ea107ded5300978fbaef3ced8d7120f5/library_hero.jpg"
+        },
+        "image2x": {
+          "english": "ed51edc6ea107ded5300978fbaef3ced8d7120f5/library_hero_2x.jpg"
+        }
+      },
+      "library_hero_blur": {
+        "image": {
+          "english": "ed51edc6ea107ded5300978fbaef3ced8d7120f5/library_hero_blur.jpg"
+        }
+      },
+      "library_logo": {
+        "image": {
+          "english": "fc187b3e97f4311b135a00fce9537b8174dd110e/logo.png"
+        },
+        "image2x": {
+          "english": "fc187b3e97f4311b135a00fce9537b8174dd110e/logo_2x.png"
+        },
+        "logo_position": {
+          "height_pct": "72.7552842830693",
+          "pinned_position": "BottomLeft",
+          "width_pct": "36.40799237230708"
+        }
+      }
+    },
+    "linuxclienticon": "5a13b64c28f841d61750271b4795b69ee0b48ff3",
+    "name": "DEFEAT THE GOBLIN KING",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "primary_genre": "2",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "dbbaa5fcbd6ede7f35e84deb7395e60d6ba236b8/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1787311441",
+    "store_asset_mtime": "1788959068",
+    "store_tags": {
+      "0": "4325",
+      "1": "122",
+      "10": "6129",
+      "11": "1759",
+      "12": "5923",
+      "13": "3854",
+      "14": "4172",
+      "15": "1708",
+      "16": "1742",
+      "17": "6971",
+      "18": "4667",
+      "19": "3959",
+      "2": "1716",
+      "3": "3871",
+      "4": "9",
+      "5": "4195",
+      "6": "4604",
+      "7": "3993",
+      "8": "14139",
+      "9": "4182"
+    },
+    "supported_languages": {
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "Game"
+  },
+  "config": {
+    "installdir": "DEFEAT THE GOBLIN KING",
+    "launch": {
+      "0": {
+        "executable": "/DefeatTheGoblinKingGame/DEFEAT THE GOBLIN KING.exe",
+        "type": "default"
+      }
+    },
+    "uselaunchcommandline": "1"
+  },
+  "depots": {
+    "3806631": {
+      "config": {
+        "language": "english",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "984196208",
+          "gid": "5790614677874831898",
+          "size": "6331053417"
+        }
+      }
+    },
+    "baselanguages": "english",
+    "branches": {
+      "public": {
+        "buildid": "25367640",
+        "timebuildupdated": "1789645445",
+        "timeupdated": "1789645471"
+      }
+    },
+    "privatebranches": "1"
+  },
+  "extended": {
+    "developer": "Gagurum",
+    "publisher": "Gagurum"
+  },
+  "ufs": {
+    "maxnumfiles": "10",
+    "quota": "4000000",
+    "savefiles": {
+      "0": {
+        "path": "GagurumGames\\DEFEAT THE GOBLIN KING",
+        "pattern": "*",
+        "platforms": {
+          "1": "Windows"
+        },
+        "recursive": "1",
+        "root": "WinAppDataLocalLow"
+      }
+    }
+  }
+}

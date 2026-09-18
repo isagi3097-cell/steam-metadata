@@ -1,0 +1,388 @@
+{
+  "_lastChecked": 1789722888,
+  "_history": [
+    {
+      "buildId": "25101226",
+      "branch": "public",
+      "timeUpdated": 1788437258,
+      "firstSeen": 1788625545,
+      "manifests": {
+        "2859871": {
+          "gid": "77105024725080511",
+          "size": 18257907,
+          "download": 12474128
+        }
+      }
+    },
+    {
+      "buildId": "25154001",
+      "branch": "public",
+      "timeUpdated": 1788711816,
+      "firstSeen": 1788713713,
+      "manifests": {
+        "2859871": {
+          "gid": "7146142905801928076",
+          "size": 18283344,
+          "download": 12493280
+        }
+      }
+    },
+    {
+      "buildId": "25191726",
+      "branch": "public",
+      "timeUpdated": 1788886284,
+      "firstSeen": 1788889931,
+      "manifests": {
+        "2859871": {
+          "gid": "1290180607792827467",
+          "size": 18314470,
+          "download": 12531552
+        }
+      }
+    },
+    {
+      "buildId": "25220504",
+      "branch": "public",
+      "timeUpdated": 1789000795,
+      "firstSeen": 1789002660,
+      "manifests": {
+        "2859871": {
+          "gid": "2070495511641147027",
+          "size": 18326564,
+          "download": 12546080
+        }
+      }
+    },
+    {
+      "buildId": "25242818",
+      "branch": "public",
+      "timeUpdated": 1789091170,
+      "firstSeen": 1789093238,
+      "manifests": {
+        "2859871": {
+          "gid": "5640758431341356482",
+          "size": 18326047,
+          "download": 12547808
+        }
+      }
+    },
+    {
+      "buildId": "25256480",
+      "branch": "public",
+      "timeUpdated": 1789139756,
+      "firstSeen": 1789146220,
+      "manifests": {
+        "2859871": {
+          "gid": "4039345856506728300",
+          "size": 18358478,
+          "download": 12579696
+        }
+      }
+    },
+    {
+      "buildId": "25269852",
+      "branch": "public",
+      "timeUpdated": 1789209015,
+      "firstSeen": 1789214248,
+      "manifests": {
+        "2859871": {
+          "gid": "9003536981814914948",
+          "size": 18412663,
+          "download": 12629312
+        }
+      }
+    },
+    {
+      "buildId": "25277761",
+      "branch": "public",
+      "timeUpdated": 1789261637,
+      "firstSeen": 1789263024,
+      "manifests": {
+        "2859871": {
+          "gid": "271035546532674206",
+          "size": 18459050,
+          "download": 12679632
+        }
+      }
+    },
+    {
+      "buildId": "25290777",
+      "branch": "public",
+      "timeUpdated": 1789349469,
+      "firstSeen": 1789350111,
+      "manifests": {
+        "2859871": {
+          "gid": "84843579372196659",
+          "size": 18462509,
+          "download": 12682640
+        }
+      }
+    },
+    {
+      "buildId": "25306194",
+      "branch": "public",
+      "timeUpdated": 1789409584,
+      "firstSeen": 1789411811,
+      "manifests": {
+        "2859871": {
+          "gid": "2990713053416843546",
+          "size": 18466077,
+          "download": 12685392
+        }
+      }
+    },
+    {
+      "buildId": "25327975",
+      "branch": "public",
+      "timeUpdated": 1789491192,
+      "firstSeen": 1789498874,
+      "manifests": {
+        "2859871": {
+          "gid": "5312250958755077511",
+          "size": 18467119,
+          "download": 12687680
+        }
+      }
+    },
+    {
+      "buildId": "25373442",
+      "branch": "public",
+      "timeUpdated": 1789663495,
+      "firstSeen": 1789673598,
+      "manifests": {
+        "2859871": {
+          "gid": "6552402984472458949",
+          "size": 18513699,
+          "download": 12735872
+        }
+      }
+    }
+  ],
+  "_change_number": 38969243,
+  "_missing_token": false,
+  "_sha": "81b448bab0a7e3cc098d5b2634813eb7cf143194",
+  "_size": 5034,
+  "appid": "2859870",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "理工互助会",
+        "type": "developer"
+      },
+      "1": {
+        "name": "理工互助会",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_24": "1",
+      "category_37": "1",
+      "category_44": "1",
+      "category_49": "1",
+      "category_62": "1"
+    },
+    "clienticns": "44cbf0d6e7f359a91d2b9fc9c7df21fcc871d04f",
+    "clienticon": "76b11c25237d88d03595e94dfe2cc1f4ba14127f",
+    "clienttga": "222cd3f481b2c013137f6d96d6fcdf742dc3e26e",
+    "community_hub_visible": "1",
+    "controllertagwizard": "1",
+    "gameid": "2859870",
+    "genres": {
+      "0": "1",
+      "1": "23",
+      "2": "37"
+    },
+    "header_image": {
+      "english": "header.jpg",
+      "schinese": "header_schinese.jpg"
+    },
+    "icon": "f09dd0bd1eac83e3da4efeb99ff01ecdc40f894b",
+    "library_assets": {
+      "library_capsule": "en,zh-cn",
+      "library_header": "en,zh-cn",
+      "library_hero": "en,zh-cn",
+      "library_logo": "en,zh-cn",
+      "logo_position": {
+        "height_pct": "50",
+        "pinned_position": "CenterCenter",
+        "width_pct": "50"
+      }
+    },
+    "library_assets_full": {
+      "library_capsule": {
+        "image": {
+          "english": "library_600x900.jpg",
+          "schinese": "library_600x900_schinese.jpg"
+        },
+        "image2x": {
+          "english": "library_600x900_2x.jpg",
+          "schinese": "library_600x900_schinese_2x.jpg"
+        }
+      },
+      "library_header": {
+        "image": {
+          "english": "library_header.jpg",
+          "schinese": "library_header_schinese.jpg"
+        }
+      },
+      "library_hero": {
+        "image": {
+          "english": "library_hero.jpg",
+          "schinese": "library_hero_schinese.jpg"
+        },
+        "image2x": {
+          "english": "library_hero_2x.jpg",
+          "schinese": "library_hero_schinese_2x.jpg"
+        }
+      },
+      "library_logo": {
+        "image": {
+          "english": "logo.png",
+          "schinese": "logo_schinese.png"
+        },
+        "image2x": {
+          "english": "logo_2x.png",
+          "schinese": "logo_schinese_2x.png"
+        },
+        "logo_position": {
+          "height_pct": "50",
+          "pinned_position": "CenterCenter",
+          "width_pct": "50"
+        }
+      }
+    },
+    "linuxclienticon": "44cbf0d6e7f359a91d2b9fc9c7df21fcc871d04f",
+    "name": "游戏大对决",
+    "name_localized": {
+      "english": "Duel of games"
+    },
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "primary_genre": "37",
+    "releasestate": "released",
+    "review_percentage": "97",
+    "review_score": "8",
+    "small_capsule": {
+      "english": "capsule_231x87.jpg",
+      "schinese": "capsule_231x87_schinese.jpg"
+    },
+    "steam_deck_compatibility": {
+      "category": "1",
+      "configuration": {
+        "gamescope_frame_limiter_not_supported": "0",
+        "hdr_support": "0",
+        "non_deck_display_glyphs": "1",
+        "primary_player_is_controller_slot_0": "0",
+        "recommended_runtime": "proton-9.0-4RC",
+        "requires_h264": "0",
+        "requires_internet_for_setup": "1",
+        "requires_internet_for_singleplayer": "0",
+        "requires_manual_keyboard_invoke": "0",
+        "requires_non_controller_launcher_nav": "0",
+        "requires_proton_soundfonts": "0",
+        "requires_voice_files": "0",
+        "small_text": "0",
+        "supported_input": "gamepad"
+      },
+      "steam_machine_compatibility": "0",
+      "steam_machine_tests": {},
+      "steamos_compatibility": "2",
+      "steamos_tests": {
+        "0": {
+          "display": "3",
+          "token": "#SteamOS_TestResult_GameStartupFunctional"
+        },
+        "1": {
+          "display": "1",
+          "token": "#SteamOS_TestResult_DefaultControllerConfigNotFullyFunctional"
+        },
+        "2": {
+          "display": "1",
+          "token": "#SteamOS_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+        }
+      },
+      "test_timestamp": "1744675200",
+      "tested_build_id": "17740828",
+      "tests": {
+        "0": {
+          "display": "2",
+          "token": "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+        }
+      }
+    },
+    "steam_release_date": "1711630243",
+    "store_asset_mtime": "1760026290",
+    "store_tags": {
+      "0": "4777",
+      "1": "1775",
+      "10": "4252",
+      "11": "7743",
+      "12": "6691",
+      "13": "4004",
+      "14": "10397",
+      "15": "3859",
+      "16": "4182",
+      "17": "113",
+      "18": "492",
+      "2": "4736",
+      "3": "1773",
+      "4": "3871",
+      "5": "19",
+      "6": "5851",
+      "7": "1654",
+      "8": "4400",
+      "9": "4094"
+    },
+    "supported_languages": {
+      "english": {
+        "supported": "true"
+      },
+      "schinese": {
+        "supported": "true"
+      }
+    },
+    "type": "Game"
+  },
+  "config": {
+    "installdir": "duelofgames",
+    "launch": {
+      "0": {
+        "config": {
+          "oslist": "windows"
+        },
+        "executable": "duelofgames.exe",
+        "type": "default"
+      }
+    }
+  },
+  "depots": {
+    "2859871": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "12735872",
+          "gid": "6552402984472458949",
+          "size": "18513699"
+        }
+      }
+    },
+    "baselanguages": "english,schinese",
+    "branches": {
+      "public": {
+        "buildid": "25373442",
+        "timebuildupdated": "1789663470",
+        "timeupdated": "1789663495"
+      }
+    }
+  },
+  "extended": {
+    "developer": "理工互助会",
+    "isfreeapp": "1",
+    "publisher": "理工互助会"
+  }
+}
