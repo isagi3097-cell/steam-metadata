@@ -8,7 +8,7 @@ on:
     # setup paired a 15-minute cron with a self-dispatch chain that re-queued a
     # fresh run roughly every minute forever, which is exactly the pattern GitHub
     # flags as abusive scheduled-workflow usage.
-    - cron: '0 */6 *'
+    - cron: '17 */6 * * *'
   workflow_dispatch:
     inputs:
       source:
