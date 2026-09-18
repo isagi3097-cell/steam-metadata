@@ -21,6 +21,19 @@ from typing import Any, Dict, List, Optional, Tuple
 
 logger = logging.getLogger("steam_tracker.storage")
 
+# Maximum number of version entries kept per app in `_history`.
+#
+# The launcher only reads the NEWEST entry for a branch (the public build plus
+# the manifest set it points at). Keeping every version a game has ever shipped
+# made each shard JSON grow without bound: a single popular title accumulated
+# dozens of near-duplicate manifest maps, which is what made a git clone of this
+# balloon into tens of GB while the downloadable zip stayed small (the zip
+# only carries one snapshot, the clone carries every blob in history).
+#
+# Trimming here keeps the published artifact useful while bounding both the
+# working-tree size and the per-commit churn that Actions pushes every run.
+MAX_HISTORY_ENTRIES_PER_APP = 5
+
 
 class MetadataStorage:
     def __init__(self, base_dir: Path):
@@ -184,6 +197,22 @@ class MetadataStorage:
                     }
                     history.append(new_entry)
                     is_new_version = True
+        # Keep only the most recent entries per branch so shard files stay bounded.
+        if len(history) > MAX_HISTORY_ENTRIES_PER_APP:
+            by_branch: Dict[str, List[Dict[str, Any]]] = {}
+            for entry in history:
+                by_branch.setdefault(str(entry.get("branch", "")), []).append(entry)
+            trimmed: List[Dict[str, Any]] = []
+            for branch_entries in by_branch.values():
+                # `timeUpdated` is a Steam supplied epoch; fall back to firstSeen.
+                def _recency(item: Dict[str, Any]) -> int:
+                    try:
+                        return int(item.get("timeUpdated") or item.get("firstSeen") or 0)
+                    except (TypeError, ValueError):
+                        return 0
+                branch_entries.sort(key=_recency, reverse=True)
+                trimmed.extend(branch_entries[:MAX_HISTORY_ENTRIES_PER_APP])
+            history = trimmed
 
         # Build output dictionary containing full Raw data + metadata extensions
         output_data: Dict[str, Any] = {
@@ -217,7 +246,10 @@ class MetadataStorage:
 
         temp_path = target_path.with_suffix(".tmp")
         with open(temp_path, "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
+            # Compact separators: these files are machine-readable mirrors, never
+            # hand-edited. Pretty printing roughly doubled every shard file for no
+            # benefit and inflated the repo on every commit.
+            json.dump(data, f, ensure_ascii=False, separators=(",", ":"))
 
         os.replace(temp_path, target_path)
 
